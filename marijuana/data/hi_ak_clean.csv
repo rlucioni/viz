@@ -1,0 +1,1049 @@
+,amount,city,date,ppg,price,quality,state,state.name
+0,3.54,Honolulu,2013-09-25,12.71,45,medium,HI,Hawaii
+1,28.3,Hilo,2013-09-25,8.83,250,high,HI,Hawaii
+2,3.54,Mountain View,2013-09-24,7.06,25,high,HI,Hawaii
+3,28.3,Honolulu,2013-09-24,0.18,5,high,HI,Hawaii
+4,28.3,Honolulu,2013-09-18,3.53,100,medium,HI,Hawaii
+5,10.0,Honolulu,2013-09-18,1.0,10,medium,HI,Hawaii
+6,3.54,Kapolei,2013-09-17,11.3,40,medium,HI,Hawaii
+7,28.3,Honolulu,2013-09-16,10.6,300,medium,HI,Hawaii
+8,28.3,Hilo,2013-09-15,7.07,200,medium,HI,Hawaii
+9,5.0,Kailua Kona,2013-09-14,10.0,50,medium,HI,Hawaii
+10,14.15,Kapolei,2013-09-13,11.31,160,high,HI,Hawaii
+11,28.3,Honolulu,2013-09-12,9.19,260,high,HI,Hawaii
+12,5.0,Kaneohe,2013-09-12,20.0,100,high,HI,Hawaii
+13,28.3,Kaneohe,2013-09-12,15.55,440,high,HI,Hawaii
+14,28.3,Honolulu,2013-09-11,5.3,150,high,HI,Hawaii
+15,5.0,Kalaheo,2013-09-10,60.0,300,high,HI,Hawaii
+16,28.3,Hanapepe,2013-09-10,1.06,30,medium,HI,Hawaii
+17,5.0,Honolulu,2013-09-10,17.6,88,high,HI,Hawaii
+18,28.3,Waianae,2013-09-07,12.37,350,medium,HI,Hawaii
+19,28.3,Honolulu,2013-09-07,14.13,400,low,HI,Hawaii
+20,28.3,Wailuku,2013-09-06,8.48,240,medium,HI,Hawaii
+21,28.3,Hawi,2013-09-06,2.12,60,high,HI,Hawaii
+22,28.3,Lahaina,2013-09-04,1.77,50,medium,HI,Hawaii
+23,5.0,Kapaa,2013-09-03,10.0,50,low,HI,Hawaii
+24,28.3,Kaunakakai,2013-09-02,10.6,300,medium,HI,Hawaii
+25,28.3,Haleiwa,2013-09-02,10.6,300,medium,HI,Hawaii
+26,3.54,Le Roy,2013-08-31,14.12,50,medium,HI,Hawaii
+27,5.0,Hilo,2013-08-31,4.0,20,medium,HI,Hawaii
+28,7.075,Honolulu,2013-08-30,14.13,100,high,HI,Hawaii
+29,28.3,Aiea,2013-08-29,0.18,5,medium,HI,Hawaii
+30,28.3,Hilo,2013-08-29,7.07,200,medium,HI,Hawaii
+31,28.3,Kailua Kona,2013-08-27,14.13,400,high,HI,Hawaii
+32,3.54,Kealakekua,2013-08-27,11.3,40,high,HI,Hawaii
+33,7.075,Aiea,2013-08-26,9.89,70,high,HI,Hawaii
+34,3.54,Ewa Beach,2013-08-25,16.95,60,high,HI,Hawaii
+35,14.15,Lahaina,2013-08-20,10.6,150,medium,HI,Hawaii
+36,14.15,Kihei,2013-08-19,8.48,120,medium,HI,Hawaii
+37,28.3,Honolulu,2013-08-19,10.6,300,high,HI,Hawaii
+38,20.0,Waialua,2013-08-17,1.0,20,medium,HI,Hawaii
+39,14.15,Hanalei,2013-08-17,8.83,125,medium,HI,Hawaii
+40,7.075,Kailua Kona,2013-08-16,19.79,140,high,HI,Hawaii
+41,28.3,Hilo,2013-08-16,14.84,420,high,HI,Hawaii
+42,5.0,Aiea,2013-08-16,10.0,50,high,HI,Hawaii
+43,3.54,Honolulu,2013-08-16,28.25,100,high,HI,Hawaii
+44,28.3,Honolulu,2013-08-15,10.6,300,high,HI,Hawaii
+45,14.15,Honolulu,2013-08-14,15.55,220,high,HI,Hawaii
+46,14.15,Honolulu,2013-08-14,7.77,110,high,HI,Hawaii
+47,3.54,Waimanalo,2013-08-14,16.95,60,medium,HI,Hawaii
+48,28.3,Kailua Kona,2013-08-12,2.83,80,high,HI,Hawaii
+49,28.3,Hilo,2013-08-11,3.53,100,medium,HI,Hawaii
+50,28.3,Honolulu,2013-08-09,3.53,100,high,HI,Hawaii
+51,28.3,Kailua Kona,2013-08-07,3.53,100,medium,HI,Hawaii
+52,28.3,Hilo,2013-08-07,7.07,200,high,HI,Hawaii
+53,28.3,Honolulu,2013-08-07,10.6,300,medium,HI,Hawaii
+54,28.3,Hilo,2013-08-07,4.42,125,medium,HI,Hawaii
+55,14.15,Kailua,2013-08-06,12.01,170,high,HI,Hawaii
+56,14.15,Honolulu,2013-08-06,8.83,125,medium,HI,Hawaii
+57,7.075,Honolulu,2013-08-05,12.01,85,medium,HI,Hawaii
+58,7.075,Kihei,2013-08-04,21.2,150,medium,HI,Hawaii
+59,7.075,Aiea,2013-08-03,2.83,20,medium,HI,Hawaii
+60,28.3,Honolulu,2013-08-02,1.77,50,high,HI,Hawaii
+61,20.0,Waimanalo,2013-07-31,1.0,20,medium,HI,Hawaii
+62,28.3,Haleiwa,2013-07-31,10.6,300,high,HI,Hawaii
+63,28.3,Kihei,2013-07-30,0.71,20,high,HI,Hawaii
+64,7.075,Kailua Kona,2013-07-29,11.31,80,medium,HI,Hawaii
+65,3.54,Honolulu,2013-07-29,11.3,40,medium,HI,Hawaii
+66,3.54,Honolulu,2013-07-29,12.71,45,medium,HI,Hawaii
+67,14.15,Kaunakakai,2013-07-24,1.41,20,medium,HI,Hawaii
+68,3.54,Honolulu,2013-07-23,11.3,40,medium,HI,Hawaii
+69,5.0,Kapaa,2013-07-23,40.0,200,high,HI,Hawaii
+70,28.3,Honolulu,2013-07-21,3.53,100,high,HI,Hawaii
+71,28.3,Honolulu,2013-07-20,14.13,400,medium,HI,Hawaii
+72,7.075,Aiea,2013-07-20,8.48,60,high,HI,Hawaii
+73,3.54,Lahaina,2013-07-19,16.95,60,medium,HI,Hawaii
+74,7.075,Pearl City,2013-07-15,4.95,35,high,HI,Hawaii
+75,7.075,Hilo,2013-07-15,14.13,100,medium,HI,Hawaii
+76,28.3,Honolulu,2013-07-11,2.12,60,medium,HI,Hawaii
+77,28.3,Kaneohe,2013-07-05,10.6,300,high,HI,Hawaii
+78,1.0,Honolulu,2013-07-04,20.0,20,medium,HI,Hawaii
+79,28.3,Honolulu,2013-07-04,17.67,500,medium,HI,Hawaii
+80,28.3,Honolulu,2013-07-03,10.6,300,medium,HI,Hawaii
+81,28.3,Honolulu,2013-07-02,4.24,120,high,HI,Hawaii
+82,28.3,Hawi,2013-07-02,7.07,200,high,HI,Hawaii
+83,3.54,Honolulu,2013-06-25,16.95,60,medium,HI,Hawaii
+84,3.54,Kaneohe,2013-06-25,14.12,50,medium,HI,Hawaii
+85,3.54,Honolulu,2013-06-24,14.12,50,medium,HI,Hawaii
+86,7.075,Hilo,2013-06-24,14.13,100,medium,HI,Hawaii
+87,14.15,Honolulu,2013-06-23,10.6,150,high,HI,Hawaii
+88,7.075,Honolulu,2013-06-21,10.6,75,high,HI,Hawaii
+89,28.3,Kailua,2013-06-21,7.95,225,medium,HI,Hawaii
+90,28.3,Honolulu,2013-06-21,9.72,275,medium,HI,Hawaii
+91,3.54,Kula,2013-06-21,14.12,50,high,HI,Hawaii
+92,14.15,Honolulu,2013-06-20,17.67,250,high,HI,Hawaii
+93,14.15,Honolulu,2013-06-18,21.2,300,medium,HI,Hawaii
+94,7.075,Honolulu,2013-06-18,12.01,85,medium,HI,Hawaii
+95,3.54,Kailua,2013-06-17,15.54,55,high,HI,Hawaii
+96,3.54,Ewa Beach,2013-06-15,12.71,45,medium,HI,Hawaii
+97,14.15,Lahaina,2013-06-15,9.19,130,high,HI,Hawaii
+98,3.54,Kihei,2013-06-15,12.71,45,high,HI,Hawaii
+99,28.3,Hauula,2013-06-14,8.83,250,medium,HI,Hawaii
+100,14.15,Kapolei,2013-06-14,14.13,200,medium,HI,Hawaii
+101,10.0,Aiea,2013-06-13,20.0,200,medium,HI,Hawaii
+102,28.3,Pearl City,2013-06-11,1.06,30,medium,HI,Hawaii
+103,3.54,Honolulu,2013-06-11,28.25,100,high,HI,Hawaii
+104,7.075,Hilo,2013-06-10,14.13,100,medium,HI,Hawaii
+105,5.0,Anahola,2013-06-10,100.0,500,high,HI,Hawaii
+106,28.3,Ewa Beach,2013-06-07,0.71,20,medium,HI,Hawaii
+107,3.54,Honokaa,2013-06-05,14.12,50,medium,HI,Hawaii
+108,3.54,Haleiwa,2013-06-05,12.71,45,medium,HI,Hawaii
+109,28.3,Honolulu,2013-05-30,9.19,260,medium,HI,Hawaii
+110,14.15,Ocean View,2013-05-30,7.07,100,high,HI,Hawaii
+111,28.3,Kahului,2013-05-30,12.37,350,high,HI,Hawaii
+112,28.3,Mililani,2013-05-26,10.6,300,medium,HI,Hawaii
+113,28.3,Honolulu,2013-05-26,9.89,280,high,HI,Hawaii
+114,28.3,Pearl City,2013-05-25,10.6,300,high,HI,Hawaii
+115,28.3,Pearl City,2013-05-25,10.95,310,medium,HI,Hawaii
+116,3.54,Lahaina,2013-05-23,16.95,60,high,HI,Hawaii
+117,28.3,Aiea,2013-05-21,10.6,300,high,HI,Hawaii
+118,28.3,Mililani,2013-05-21,0.35,10,medium,HI,Hawaii
+119,28.3,Honolulu,2013-05-19,3.53,100,medium,HI,Hawaii
+120,28.3,Kaneohe,2013-05-17,7.07,200,medium,HI,Hawaii
+121,7.075,Lahaina,2013-05-15,14.13,100,medium,HI,Hawaii
+122,3.54,Kaneohe,2013-05-15,14.12,50,medium,HI,Hawaii
+123,28.3,Kapolei,2013-05-14,8.48,240,medium,HI,Hawaii
+124,28.3,Honolulu,2013-05-07,1.77,50,medium,HI,Hawaii
+125,3.54,Ewa Beach,2013-05-07,11.3,40,high,HI,Hawaii
+126,28.3,Honolulu,2013-05-07,10.6,300,medium,HI,Hawaii
+127,28.3,Honolulu,2013-05-06,0.35,10,medium,HI,Hawaii
+128,3.54,Waipahu,2013-05-05,9.89,35,medium,HI,Hawaii
+129,14.15,Kailua,2013-05-03,14.13,200,high,HI,Hawaii
+130,3.54,Wahiawa,2013-05-01,19.77,70,high,HI,Hawaii
+131,28.3,Honolulu,2013-05-01,13.25,375,high,HI,Hawaii
+132,28.3,Honolulu,2013-05-01,11.31,320,high,HI,Hawaii
+133,28.3,Kilauea,2013-04-29,10.6,300,medium,HI,Hawaii
+134,3.54,Kapolei,2013-04-28,11.3,40,medium,HI,Hawaii
+135,3.54,Wailuku,2013-04-28,5.65,20,high,HI,Hawaii
+136,5.0,Ewa Beach,2013-04-26,4.0,20,medium,HI,Hawaii
+137,28.3,Waianae,2013-04-26,10.6,300,high,HI,Hawaii
+138,14.15,Aiea,2013-04-25,1.41,20,medium,HI,Hawaii
+139,28.3,Kihei,2013-04-23,10.6,300,medium,HI,Hawaii
+140,5.0,Kihei,2013-04-22,8.0,40,medium,HI,Hawaii
+141,3.54,Kaneohe,2013-04-22,16.95,60,medium,HI,Hawaii
+142,28.3,Kailua Kona,2013-04-21,7.07,200,medium,HI,Hawaii
+143,28.3,Honolulu,2013-04-21,19.79,560,medium,HI,Hawaii
+144,28.3,Lahaina,2013-04-20,11.31,320,high,HI,Hawaii
+145,3.54,Honolulu,2013-04-19,14.12,50,medium,HI,Hawaii
+146,28.3,Honolulu,2013-04-19,1.77,50,medium,HI,Hawaii
+147,3.54,Kailua Kona,2013-04-19,28.25,100,medium,HI,Hawaii
+148,3.54,Ewa Beach,2013-04-18,11.3,40,high,HI,Hawaii
+149,7.075,Kapolei,2013-04-14,16.96,120,medium,HI,Hawaii
+150,28.3,Kailua Kona,2013-04-12,7.42,210,high,HI,Hawaii
+151,7.075,Honolulu,2013-04-11,8.48,60,medium,HI,Hawaii
+152,5.0,Ocean View,2013-04-08,20.0,100,high,HI,Hawaii
+153,14.15,Kailua Kona,2013-04-05,9.89,140,high,HI,Hawaii
+154,28.3,Ewa Beach,2013-04-04,21.2,600,high,HI,Hawaii
+155,5.0,Kaneohe,2013-03-31,3.0,15,medium,HI,Hawaii
+156,28.3,Hilo,2013-03-31,8.83,250,medium,HI,Hawaii
+157,28.3,Captain Cook,2013-03-30,10.6,300,high,HI,Hawaii
+158,28.3,Waianae,2013-03-30,12.37,350,high,HI,Hawaii
+159,14.15,Honolulu,2013-03-29,1.41,20,low,HI,Hawaii
+160,28.3,Aiea,2013-03-28,0.35,10,medium,HI,Hawaii
+161,1.0,Mililani,2013-03-27,20.0,20,high,HI,Hawaii
+162,28.3,Cedar Ridge,2013-03-26,14.13,400,high,HI,Hawaii
+163,10.0,Honolulu,2013-03-25,1.0,10,medium,HI,Hawaii
+164,7.075,Hilo,2013-03-25,7.07,50,medium,HI,Hawaii
+165,28.3,Hilo,2013-03-25,4.24,120,medium,HI,Hawaii
+166,28.3,Waipahu,2013-03-24,0.35,10,low,HI,Hawaii
+167,3.54,Kula,2013-03-23,11.3,40,high,HI,Hawaii
+168,28.3,Ocean View,2013-03-22,4.95,140,high,HI,Hawaii
+169,3.54,Hilo,2013-03-22,16.95,60,medium,HI,Hawaii
+170,3.54,Honolulu,2013-03-21,14.12,50,medium,HI,Hawaii
+171,14.15,Kamuela,2013-03-21,12.37,175,high,HI,Hawaii
+172,28.3,Kailua,2013-03-19,35.34,1000,high,HI,Hawaii
+173,28.3,Honolulu,2013-03-19,8.83,250,high,HI,Hawaii
+174,28.3,Honolulu,2013-03-19,9.89,280,high,HI,Hawaii
+175,7.075,Honolulu,2013-03-18,14.13,100,medium,HI,Hawaii
+176,28.3,Aiea,2013-03-17,0.71,20,medium,HI,Hawaii
+177,28.3,Kahului,2013-03-17,10.6,300,high,HI,Hawaii
+178,5.0,Aiea,2013-03-14,12.6,63,medium,HI,Hawaii
+179,28.3,Hilo,2013-03-12,7.07,200,medium,HI,Hawaii
+180,28.3,Waianae,2013-03-12,10.6,300,high,HI,Hawaii
+181,5.0,Waipahu,2013-03-11,20.0,100,medium,HI,Hawaii
+182,14.15,Waianae,2013-03-06,8.48,120,medium,HI,Hawaii
+183,3.54,Lihue,2013-03-05,16.95,60,medium,HI,Hawaii
+184,28.3,Pearl City,2013-03-05,9.89,280,medium,HI,Hawaii
+185,1.0,Pearl City,2013-02-28,60.0,60,low,HI,Hawaii
+186,1.0,Pearl City,2013-02-28,20.0,20,medium,HI,Hawaii
+187,5.0,Wailuku,2013-02-26,10.0,50,medium,HI,Hawaii
+188,28.3,Anahola,2013-02-26,5.3,150,high,HI,Hawaii
+189,28.3,Kahului,2013-02-25,0.88,25,medium,HI,Hawaii
+190,28.3,Wahiawa,2013-02-25,2.83,80,medium,HI,Hawaii
+191,20.0,Waianae,2013-02-24,1.0,20,high,HI,Hawaii
+192,28.3,Kailua,2013-02-22,15.9,450,medium,HI,Hawaii
+193,28.3,Aiea,2013-02-21,1.77,50,high,HI,Hawaii
+194,28.3,Mililani,2013-02-18,21.2,600,high,HI,Hawaii
+195,28.3,Kapolei,2013-02-16,14.13,400,medium,HI,Hawaii
+196,28.3,Hilo,2013-02-15,7.07,200,medium,HI,Hawaii
+197,3.54,Pearl City,2013-02-14,2.82,10,medium,HI,Hawaii
+198,3.54,Honolulu,2013-02-14,14.12,50,medium,HI,Hawaii
+199,28.3,Lahaina,2013-02-13,10.6,300,medium,HI,Hawaii
+200,28.3,Kamuela,2013-02-12,12.37,350,high,HI,Hawaii
+201,28.3,Laie,2013-02-11,28.27,800,medium,HI,Hawaii
+202,28.3,Kapolei,2013-02-11,0.35,10,medium,HI,Hawaii
+203,28.3,Honolulu,2013-02-10,1.94,55,high,HI,Hawaii
+204,28.3,Hilo,2013-02-09,3.53,100,medium,HI,Hawaii
+205,3.54,Haiku,2013-02-09,22.6,80,medium,HI,Hawaii
+206,28.3,Honolulu,2013-02-07,7.95,225,medium,HI,Hawaii
+207,28.3,Honolulu,2013-02-07,7.95,225,medium,HI,Hawaii
+208,10.0,Kaunakakai,2013-02-06,10.0,100,medium,HI,Hawaii
+209,28.3,Honolulu,2013-02-05,5.3,150,high,HI,Hawaii
+210,28.3,Waianae,2013-02-05,10.6,300,medium,HI,Hawaii
+211,3.54,Lahaina,2013-02-02,14.12,50,high,HI,Hawaii
+212,5.0,Honolulu,2013-02-01,20.0,100,high,HI,Hawaii
+213,5.0,Honolulu,2013-01-31,2.0,10,high,HI,Hawaii
+214,28.3,Kaaawa,2013-01-31,6.71,190,high,HI,Hawaii
+215,28.3,Kaunakakai,2013-01-30,8.83,250,high,HI,Hawaii
+216,28.3,Honolulu,2013-01-29,35.34,1000,medium,HI,Hawaii
+217,5.0,Honolulu,2013-01-27,20.0,100,medium,HI,Hawaii
+218,5.0,Honolulu,2013-01-27,20.0,100,high,HI,Hawaii
+219,28.3,Anahola,2013-01-26,1.77,50,high,HI,Hawaii
+220,28.3,Wailuku,2013-01-25,10.6,300,high,HI,Hawaii
+221,28.3,Honolulu,2013-01-25,0.71,20,high,HI,Hawaii
+222,28.3,Ewa Beach,2013-01-25,15.9,450,medium,HI,Hawaii
+223,28.3,Pahoa,2013-01-25,6.36,180,high,HI,Hawaii
+224,7.075,Honolulu,2013-01-25,14.13,100,medium,HI,Hawaii
+225,28.3,Honolulu,2013-01-24,14.13,400,high,HI,Hawaii
+226,7.075,Honolulu,2013-01-24,11.31,80,medium,HI,Hawaii
+227,28.3,Kilauea,2013-01-22,11.48,325,medium,HI,Hawaii
+228,28.3,Hana,2013-01-21,3.53,100,medium,HI,Hawaii
+229,28.3,Anahola,2013-01-21,1.77,50,high,HI,Hawaii
+230,28.3,Ewa Beach,2013-01-20,8.48,240,medium,HI,Hawaii
+231,28.3,Honolulu,2013-01-19,10.6,300,medium,HI,Hawaii
+232,3.54,Waikoloa,2013-01-18,11.3,40,high,HI,Hawaii
+233,28.3,Ewa Beach,2013-01-17,1.41,40,low,HI,Hawaii
+234,3.54,Honolulu,2013-01-17,11.3,40,high,HI,Hawaii
+235,28.3,Honolulu,2013-01-17,5.3,150,high,HI,Hawaii
+236,28.3,Honolulu,2013-01-16,10.6,300,high,HI,Hawaii
+237,1.0,Honolulu,2013-01-15,40.0,40,high,HI,Hawaii
+238,28.3,Kailua Kona,2013-01-14,8.83,250,medium,HI,Hawaii
+239,3.54,Kihei,2013-01-13,16.95,60,high,HI,Hawaii
+240,5.0,Hilo,2013-01-13,10.0,50,high,HI,Hawaii
+241,28.3,Waianae,2013-01-11,2.12,60,medium,HI,Hawaii
+242,28.3,Aiea,2013-01-11,0.53,15,low,HI,Hawaii
+243,14.15,Honolulu,2013-01-09,12.37,175,high,HI,Hawaii
+244,14.15,Honolulu,2013-01-08,17.67,250,high,HI,Hawaii
+245,28.3,Pearl City,2013-01-08,7.07,200,high,HI,Hawaii
+246,28.3,Aiea,2013-01-07,2.12,60,medium,HI,Hawaii
+247,28.3,Ewa Beach,2013-01-07,2.12,60,medium,HI,Hawaii
+248,28.3,Honolulu,2013-01-06,14.13,400,medium,HI,Hawaii
+249,28.3,Kamuela,2013-01-05,4.59,130,medium,HI,Hawaii
+250,28.3,Ocean View,2013-01-05,4.06,115,high,HI,Hawaii
+251,28.3,Lahaina,2013-01-04,7.07,200,high,HI,Hawaii
+252,28.3,Hilo,2013-01-04,0.71,20,medium,HI,Hawaii
+253,3.54,Kahului,2013-01-04,14.12,50,medium,HI,Hawaii
+254,28.3,Honolulu,2013-01-03,3.53,100,high,HI,Hawaii
+255,28.3,Holualoa,2013-01-03,11.31,320,high,HI,Hawaii
+256,28.3,Honolulu,2013-01-03,8.83,250,medium,HI,Hawaii
+257,7.075,Kahului,2013-01-03,21.2,150,medium,HI,Hawaii
+258,28.3,Honolulu,2013-01-02,12.37,350,medium,HI,Hawaii
+259,14.15,Honolulu,2013-01-01,7.07,100,high,HI,Hawaii
+260,28.3,Kailua Kona,2013-01-01,3.53,100,high,HI,Hawaii
+261,5.0,Waianae,2012-12-31,20.0,100,medium,HI,Hawaii
+262,28.3,Honolulu,2012-12-30,17.67,500,high,HI,Hawaii
+263,28.3,Lahaina,2012-12-29,7.07,200,high,HI,Hawaii
+264,28.3,Waipahu,2012-12-29,0.71,20,low,HI,Hawaii
+265,28.3,Ewa Beach,2012-12-27,11.31,320,medium,HI,Hawaii
+266,28.3,Honolulu,2012-12-26,3.53,100,medium,HI,Hawaii
+267,7.075,Honolulu,2012-12-25,12.72,90,high,HI,Hawaii
+268,28.3,Honolulu,2012-12-24,5.3,150,high,HI,Hawaii
+269,28.3,Ewa Beach,2012-12-24,11.66,330,high,HI,Hawaii
+270,28.3,Kailua Kona,2012-12-23,3.53,100,high,HI,Hawaii
+271,28.3,Wahiawa,2012-12-22,3.53,100,medium,HI,Hawaii
+272,5.0,Pearl Harbor,2012-12-22,2.0,10,high,HI,Hawaii
+273,5.0,Haleiwa,2012-12-22,1.0,5,medium,HI,Hawaii
+274,28.3,Hilo,2012-12-19,3.53,100,medium,HI,Hawaii
+275,7.075,Honolulu,2012-12-16,16.96,120,high,HI,Hawaii
+276,3.54,Honolulu,2012-12-15,14.12,50,medium,HI,Hawaii
+277,1.0,Honolulu,2012-12-15,20.0,20,medium,HI,Hawaii
+278,1.0,Honolulu,2012-12-15,30.0,30,medium,HI,Hawaii
+279,15.0,Kapolei,2012-12-14,1.33,20,high,HI,Hawaii
+280,28.3,Wailuku,2012-12-14,0.71,20,high,HI,Hawaii
+281,28.3,Kapaau,2012-12-12,5.3,150,medium,HI,Hawaii
+282,10.0,Anahola,2012-12-11,10.0,100,high,HI,Hawaii
+283,3.54,Honolulu,2012-12-11,16.95,60,medium,HI,Hawaii
+284,5.0,Kaneohe,2012-12-08,4.0,20,high,HI,Hawaii
+285,10.0,Kailua Kona,2012-12-08,2.0,20,medium,HI,Hawaii
+286,28.3,Hilo,2012-12-07,3.53,100,medium,HI,Hawaii
+287,3.54,Ewa Beach,2012-12-05,12.71,45,high,HI,Hawaii
+288,28.3,Ewa Beach,2012-12-04,12.72,360,high,HI,Hawaii
+289,28.3,Wahiawa,2012-12-03,9.72,275,medium,HI,Hawaii
+290,28.3,Honolulu,2012-12-03,5.3,150,high,HI,Hawaii
+291,28.3,Honolulu,2012-12-03,1.77,50,low,HI,Hawaii
+292,3.54,Kailua Kona,2012-12-02,11.3,40,high,HI,Hawaii
+293,3.54,Aiea,2012-12-02,5.65,20,medium,HI,Hawaii
+294,5.0,Honolulu,2012-11-27,20.0,100,high,HI,Hawaii
+295,14.15,Honaunau,2012-11-27,10.95,155,low,HI,Hawaii
+296,14.15,Aiea,2012-11-26,10.6,150,high,HI,Hawaii
+297,28.3,Hilo,2012-11-26,3.53,100,high,HI,Hawaii
+298,28.3,Anahola,2012-11-25,1.38,39,low,HI,Hawaii
+299,28.3,Eleele,2012-11-25,14.13,400,medium,HI,Hawaii
+300,3.54,Kailua Kona,2012-11-24,2.82,10,low,HI,Hawaii
+301,3.54,Kealakekua,2012-11-24,16.95,60,high,HI,Hawaii
+302,28.3,Haiku,2012-11-23,2.47,70,high,HI,Hawaii
+303,7.075,Honolulu,2012-11-22,11.31,80,high,HI,Hawaii
+304,1.0,Honolulu,2012-11-22,20.0,20,high,HI,Hawaii
+305,5.0,Fort Shafter,2012-11-21,10.0,50,high,HI,Hawaii
+306,28.3,Haiku,2012-11-21,7.42,210,medium,HI,Hawaii
+307,7.075,Haiku,2012-11-20,14.13,100,high,HI,Hawaii
+308,28.3,Kapolei,2012-11-20,10.6,300,medium,HI,Hawaii
+309,28.3,Hauula,2012-11-20,10.6,300,high,HI,Hawaii
+310,28.3,Kailua Kona,2012-11-20,5.3,150,medium,HI,Hawaii
+311,5.0,Kailua Kona,2012-11-19,2.0,10,high,HI,Hawaii
+312,3.54,Honolulu,2012-11-19,14.12,50,medium,HI,Hawaii
+313,28.3,Honolulu,2012-11-18,0.71,20,medium,HI,Hawaii
+314,10.0,Captain Cook,2012-11-17,11.0,110,low,HI,Hawaii
+315,3.54,Honolulu,2012-11-16,12.71,45,high,HI,Hawaii
+316,14.15,Honolulu,2012-11-16,4.95,70,medium,HI,Hawaii
+317,3.54,Waianae,2012-11-14,9.89,35,high,HI,Hawaii
+318,3.54,Waianae,2012-11-14,9.89,35,high,HI,Hawaii
+319,28.3,Kaaawa,2012-11-13,10.6,300,high,HI,Hawaii
+320,28.3,Kapolei,2012-11-12,0.35,10,medium,HI,Hawaii
+321,14.15,Lahaina,2012-11-10,11.31,160,medium,HI,Hawaii
+322,7.075,Honolulu,2012-11-10,12.72,90,high,HI,Hawaii
+323,28.3,Makawao,2012-11-09,7.07,200,high,HI,Hawaii
+324,28.3,Hilo,2012-11-06,1.77,50,medium,HI,Hawaii
+325,3.54,Haiku,2012-11-06,11.3,40,medium,HI,Hawaii
+326,28.3,Honolulu,2012-11-04,28.27,800,medium,HI,Hawaii
+327,5.0,Ewa Beach,2012-11-04,16.0,80,medium,HI,Hawaii
+328,3.54,Kapolei,2012-11-02,5.65,20,medium,HI,Hawaii
+329,14.15,Honolulu,2012-10-29,0.71,10,medium,HI,Hawaii
+330,28.3,Ewa Beach,2012-10-26,10.6,300,medium,HI,Hawaii
+331,20.0,Kaneohe,2012-10-25,1.0,20,medium,HI,Hawaii
+332,28.3,Ewa Beach,2012-10-24,0.35,10,low,HI,Hawaii
+333,28.3,Kaunakakai,2012-10-23,8.83,250,medium,HI,Hawaii
+334,28.3,Captain Cook,2012-10-23,9.89,280,medium,HI,Hawaii
+335,28.3,Hilo,2012-10-22,3.53,100,high,HI,Hawaii
+336,28.3,Haiku,2012-10-22,12.37,350,high,HI,Hawaii
+337,28.3,Kaneohe,2012-10-21,10.6,300,high,HI,Hawaii
+338,3.54,Lahaina,2012-10-20,16.95,60,low,HI,Hawaii
+339,5.0,Honolulu,2012-10-20,10.0,50,medium,HI,Hawaii
+340,28.3,Captain Cook,2012-10-19,0.81,23,medium,HI,Hawaii
+341,28.3,Waianae,2012-10-16,14.13,400,high,HI,Hawaii
+342,3.54,Honolulu,2012-10-15,21.19,75,medium,HI,Hawaii
+343,28.3,Honolulu,2012-10-15,3.53,100,high,HI,Hawaii
+344,28.3,Makawao,2012-10-14,10.6,300,high,HI,Hawaii
+345,28.3,Ewa Beach,2012-10-13,10.6,300,high,HI,Hawaii
+346,28.3,Kaneohe,2012-10-13,14.13,400,high,HI,Hawaii
+347,1.0,Kaneohe,2012-10-13,10.0,10,medium,HI,Hawaii
+348,3.54,Honolulu,2012-10-10,16.95,60,medium,HI,Hawaii
+349,14.15,Honolulu,2012-10-06,6.36,90,medium,HI,Hawaii
+350,3.54,Honolulu,2012-10-05,16.95,60,high,HI,Hawaii
+351,28.3,Honolulu,2012-10-04,10.6,300,high,HI,Hawaii
+352,28.3,Honokaa,2012-10-04,1.77,50,medium,HI,Hawaii
+353,28.3,Hanapepe,2012-09-28,3.53,100,low,HI,Hawaii
+354,7.075,Kailua Kona,2012-09-28,11.31,80,high,HI,Hawaii
+355,28.3,Hilo,2012-09-28,2.12,60,medium,HI,Hawaii
+356,28.3,Hana,2012-09-26,0.88,25,medium,HI,Hawaii
+357,5.0,Waimanalo,2012-09-26,8.0,40,medium,HI,Hawaii
+358,14.15,Kailua,2012-09-25,7.07,100,high,HI,Hawaii
+359,28.3,Kaunakakai,2012-09-24,8.83,250,medium,HI,Hawaii
+360,28.3,Honolulu,2012-09-21,10.6,300,high,HI,Hawaii
+361,14.15,Aiea,2012-09-21,11.31,160,high,HI,Hawaii
+362,28.3,Hauula,2012-09-21,5.3,150,high,HI,Hawaii
+363,14.15,Kailua Kona,2012-09-20,2.12,30,high,HI,Hawaii
+364,28.3,Honolulu,2012-09-18,1.41,40,medium,HI,Hawaii
+365,28.3,Kamuela,2012-09-17,5.3,150,medium,HI,Hawaii
+366,28.3,Honolulu,2012-09-15,12.72,360,high,HI,Hawaii
+367,15.0,Schofield Barracks,2012-09-11,3.33,50,medium,HI,Hawaii
+368,28.3,Waimea,2012-09-10,7.07,200,high,HI,Hawaii
+369,3.54,Honolulu,2012-09-09,11.3,40,medium,HI,Hawaii
+370,7.075,Ewa Beach,2012-09-09,28.27,200,medium,HI,Hawaii
+371,28.3,Ewa Beach,2012-09-07,3.53,100,high,HI,Hawaii
+372,7.075,Kailua Kona,2012-09-07,2.83,20,high,HI,Hawaii
+373,7.075,Wahiawa,2012-09-07,11.31,80,medium,HI,Hawaii
+374,5.0,Honolulu,2012-09-06,200.0,1000,medium,HI,Hawaii
+375,28.3,Kailua,2012-09-06,0.71,20,medium,HI,Hawaii
+376,3.54,Kihei,2012-09-04,14.12,50,high,HI,Hawaii
+377,3.54,Honolulu,2012-08-31,14.12,50,high,HI,Hawaii
+378,10.0,Honolulu,2012-08-28,2.0,20,medium,HI,Hawaii
+379,28.3,Honolulu,2012-08-28,0.35,10,medium,HI,Hawaii
+380,28.3,Honolulu,2012-08-25,8.83,250,medium,HI,Hawaii
+381,1.0,Lihue,2012-08-24,10.0,10,medium,HI,Hawaii
+382,14.15,Honolulu,2012-08-23,12.72,180,medium,HI,Hawaii
+383,28.3,Wailuku,2012-08-23,10.6,300,medium,HI,Hawaii
+384,28.3,Ewa Beach,2012-08-21,0.18,5,medium,HI,Hawaii
+385,28.3,Pearl City,2012-08-21,9.89,280,medium,HI,Hawaii
+386,3.54,Kahului,2012-08-20,19.77,70,medium,HI,Hawaii
+387,3.54,Mililani,2012-08-19,28.25,100,medium,HI,Hawaii
+388,3.54,Aiea,2012-08-15,1.41,5,high,HI,Hawaii
+389,28.3,Honolulu,2012-08-14,13.25,375,medium,HI,Hawaii
+390,28.3,Captain Cook,2012-08-12,1.77,50,medium,HI,Hawaii
+391,28.3,Honolulu,2012-08-11,12.72,360,medium,HI,Hawaii
+392,28.3,Honolulu,2012-08-11,10.6,300,medium,HI,Hawaii
+393,28.3,Kailua Kona,2012-08-08,8.83,250,high,HI,Hawaii
+394,14.15,Kailua Kona,2012-08-08,10.6,150,medium,HI,Hawaii
+395,28.3,Kailua,2012-08-08,0.71,20,medium,HI,Hawaii
+396,28.3,Eleele,2012-08-07,10.6,300,medium,HI,Hawaii
+397,28.3,Mililani,2012-08-07,16.61,470,high,HI,Hawaii
+398,28.3,Kaneohe,2012-08-01,10.6,300,high,HI,Hawaii
+399,14.15,Honolulu,2012-08-01,1.41,20,medium,HI,Hawaii
+400,3.54,Honolulu,2012-07-28,16.95,60,medium,HI,Hawaii
+401,3.54,Mililani,2012-07-27,16.95,60,medium,HI,Hawaii
+402,28.3,Ocean View,2012-07-27,8.83,250,high,HI,Hawaii
+403,7.075,Hilo,2012-07-24,3.53,25,low,HI,Hawaii
+404,5.0,Aiea,2012-07-23,2.0,10,medium,HI,Hawaii
+405,3.54,Honolulu,2012-07-22,11.3,40,high,HI,Hawaii
+406,28.3,Hanapepe,2012-07-22,28.27,800,high,HI,Hawaii
+407,28.3,Hawi,2012-07-21,7.07,200,low,HI,Hawaii
+408,5.0,Hilo,2012-07-21,20.0,100,high,HI,Hawaii
+409,5.0,Makawao,2012-07-20,20.0,100,high,HI,Hawaii
+410,28.3,Waianae,2012-07-14,11.31,320,medium,HI,Hawaii
+411,28.3,Ewa Beach,2012-07-13,13.25,375,medium,HI,Hawaii
+412,28.3,Honolulu,2012-07-13,2.83,80,medium,HI,Hawaii
+413,28.3,Honolulu,2012-07-13,2.47,70,medium,HI,Hawaii
+414,28.3,Ewa Beach,2012-07-12,0.35,10,medium,HI,Hawaii
+415,28.3,Aiea,2012-07-09,1.77,50,high,HI,Hawaii
+416,28.3,Kilauea,2012-07-06,10.6,300,medium,HI,Hawaii
+417,28.3,Honolulu,2012-07-06,3.53,100,medium,HI,Hawaii
+418,7.075,Waianae,2012-07-04,16.96,120,medium,HI,Hawaii
+419,28.3,Honolulu,2012-07-04,10.6,300,high,HI,Hawaii
+420,3.54,Princeville,2012-07-03,16.95,60,medium,HI,Hawaii
+421,5.0,Mililani,2012-06-27,8.0,40,medium,HI,Hawaii
+422,28.3,Kula,2012-06-27,17.67,500,high,HI,Hawaii
+423,14.15,Kapaa,2012-06-25,2.83,40,high,HI,Hawaii
+424,28.3,Hilo,2012-06-24,8.13,230,high,HI,Hawaii
+425,5.0,Hilo,2012-06-23,16.0,80,medium,HI,Hawaii
+426,5.0,Hilo,2012-06-20,80.0,400,medium,HI,Hawaii
+427,14.15,Keaau,2012-06-20,7.07,100,medium,HI,Hawaii
+428,28.3,Honolulu,2012-06-18,10.6,300,high,HI,Hawaii
+429,3.54,Honolulu,2012-06-14,16.95,60,high,HI,Hawaii
+430,3.54,Honolulu,2012-06-07,16.95,60,medium,HI,Hawaii
+431,14.15,Kapaa,2012-06-06,12.37,175,medium,HI,Hawaii
+432,28.3,Honolulu,2012-05-31,0.35,10,high,HI,Hawaii
+433,5.0,Honolulu,2012-05-30,10.0,50,medium,HI,Hawaii
+434,28.3,Honolulu,2012-05-29,8.83,250,medium,HI,Hawaii
+435,28.3,Aiea,2012-05-24,9.54,270,medium,HI,Hawaii
+436,3.54,Honolulu,2012-05-23,11.3,40,medium,HI,Hawaii
+437,15.0,Honolulu,2012-05-21,1.33,20,medium,HI,Hawaii
+438,14.15,Honolulu,2012-05-21,9.89,140,medium,HI,Hawaii
+439,5.0,Kahului,2012-05-21,20.0,100,medium,HI,Hawaii
+440,3.54,Lihue,2012-05-18,2.82,10,high,HI,Hawaii
+441,28.3,Kailua Kona,2012-05-18,3.53,100,high,HI,Hawaii
+442,28.3,Wailuku,2012-05-17,6.36,180,medium,HI,Hawaii
+443,28.3,Hilo,2012-05-12,1.06,30,high,HI,Hawaii
+444,14.15,Honolulu,2012-05-09,14.13,200,medium,HI,Hawaii
+445,10.0,Kailua Kona,2012-05-08,20.0,200,medium,HI,Hawaii
+446,28.3,Honolulu,2012-05-08,8.83,250,high,HI,Hawaii
+447,3.54,Ewa Beach,2012-05-03,16.95,60,high,HI,Hawaii
+448,28.3,Honolulu,2012-05-01,9.72,275,high,HI,Hawaii
+449,28.3,Fort Shafter,2012-04-27,0.35,10,medium,HI,Hawaii
+450,3.54,Honolulu,2012-04-26,12.71,45,medium,HI,Hawaii
+451,3.54,Honolulu,2012-04-26,15.54,55,high,HI,Hawaii
+452,3.54,Lihue,2012-04-22,16.95,60,high,HI,Hawaii
+453,28.3,Honolulu,2012-04-21,10.6,300,high,HI,Hawaii
+454,3.54,Kapolei,2012-04-19,16.95,60,medium,HI,Hawaii
+455,7.075,Honolulu,2012-04-18,12.72,90,medium,HI,Hawaii
+456,28.3,Kailua Kona,2012-04-14,3.53,100,medium,HI,Hawaii
+457,3.54,Honolulu,2012-04-13,14.12,50,medium,HI,Hawaii
+458,28.3,Ewa Beach,2012-04-09,0.71,20,medium,HI,Hawaii
+459,3.54,Kaneohe,2012-04-08,5.65,20,medium,HI,Hawaii
+460,28.3,Honolulu,2012-04-06,10.6,300,high,HI,Hawaii
+461,28.3,Honolulu,2012-04-05,24.73,700,high,HI,Hawaii
+462,14.15,Honolulu,2012-04-04,14.84,210,high,HI,Hawaii
+463,5.0,Aiea,2012-04-02,3.0,15,medium,HI,Hawaii
+464,3.54,Kapolei,2012-04-01,14.12,50,medium,HI,Hawaii
+465,28.3,Waianae,2012-03-31,13.25,375,high,HI,Hawaii
+466,3.54,Honolulu,2012-03-30,14.12,50,high,HI,Hawaii
+467,5.0,Kilauea,2012-03-30,4.0,20,high,HI,Hawaii
+468,3.54,Honolulu,2012-03-30,14.12,50,medium,HI,Hawaii
+469,5.0,Kamuela,2012-03-27,4.0,20,medium,HI,Hawaii
+470,5.0,Honolulu,2012-03-27,10.0,50,medium,HI,Hawaii
+471,28.3,Honolulu,2012-03-26,9.72,275,medium,HI,Hawaii
+472,3.54,Wahiawa,2012-03-26,14.12,50,medium,HI,Hawaii
+473,28.3,Honolulu,2012-03-24,7.07,200,medium,HI,Hawaii
+474,5.0,Kamuela,2012-03-23,10.0,50,high,HI,Hawaii
+475,14.15,Honolulu,2012-03-21,9.89,140,high,HI,Hawaii
+476,28.3,Honolulu,2012-03-21,14.13,400,high,HI,Hawaii
+477,7.075,Pearl City,2012-03-19,16.96,120,high,HI,Hawaii
+478,28.3,Kailua Kona,2012-03-16,7.07,200,medium,HI,Hawaii
+479,28.3,Kailua Kona,2012-02-26,8.48,240,medium,HI,Hawaii
+480,7.075,Koloa,2012-02-15,14.13,100,high,HI,Hawaii
+481,3.54,Kailua,2012-02-14,14.12,50,high,HI,Hawaii
+482,28.3,Wahiawa,2012-02-09,0.71,20,medium,HI,Hawaii
+483,14.15,Honolulu,2012-02-01,5.65,80,high,HI,Hawaii
+484,3.54,Honolulu,2012-01-29,11.3,40,high,HI,Hawaii
+485,28.3,Honolulu,2012-01-25,4.95,140,low,HI,Hawaii
+486,3.54,Honolulu,2012-01-21,16.95,60,high,HI,Hawaii
+487,3.54,Mililani,2012-01-09,16.95,60,high,HI,Hawaii
+488,28.3,Honolulu,2012-01-05,7.77,220,medium,HI,Hawaii
+489,3.54,Honolulu,2012-01-03,14.12,50,high,HI,Hawaii
+490,28.3,Paia,2011-12-25,16.96,480,high,HI,Hawaii
+491,28.3,Aiea,2011-12-20,0.71,20,low,HI,Hawaii
+492,28.3,Honolulu,2011-12-16,9.89,280,high,HI,Hawaii
+493,7.075,Honolulu,2011-12-10,16.96,120,high,HI,Hawaii
+494,28.3,Honolulu,2011-12-05,10.6,300,high,HI,Hawaii
+495,3.54,Waipahu,2011-12-04,28.25,100,high,HI,Hawaii
+496,28.3,Honolulu,2011-10-28,0.71,20,medium,HI,Hawaii
+497,7.075,Lanai City,2011-10-28,16.96,120,high,HI,Hawaii
+498,28.3,Haleiwa,2011-10-20,14.13,400,high,HI,Hawaii
+499,28.3,Honolulu,2011-10-18,7.07,200,medium,HI,Hawaii
+500,28.3,Honolulu,2011-10-14,7.07,200,high,HI,Hawaii
+501,28.3,Hanalei,2011-10-09,0.21,6,high,HI,Hawaii
+502,3.54,Makawao,2011-09-17,14.12,50,medium,HI,Hawaii
+503,7.075,Hilo,2011-09-15,8.48,60,high,HI,Hawaii
+504,3.54,Honolulu,2011-09-06,14.12,50,medium,HI,Hawaii
+505,3.54,Honolulu,2011-09-04,14.12,50,high,HI,Hawaii
+506,7.075,Kihei,2011-09-02,14.13,100,high,HI,Hawaii
+507,5.0,M C B H Kaneohe Bay,2011-09-01,45.0,225,low,HI,Hawaii
+508,28.3,Honolulu,2011-08-31,14.13,400,high,HI,Hawaii
+509,7.075,Hilo,2011-08-31,14.13,100,high,HI,Hawaii
+510,28.3,Keaau,2011-08-31,7.07,200,medium,HI,Hawaii
+511,28.3,Kapaa,2011-08-30,12.37,350,medium,HI,Hawaii
+512,28.3,Waialua,2011-08-30,14.13,400,medium,HI,Hawaii
+513,3.54,Kaneohe,2011-08-24,16.95,60,medium,HI,Hawaii
+514,5.0,Wailuku,2011-08-19,20.0,100,high,HI,Hawaii
+515,7.075,Kailua,2011-08-04,14.13,100,high,HI,Hawaii
+516,14.15,Honolulu,2011-08-02,14.84,210,high,HI,Hawaii
+517,28.3,Honolulu,2011-07-29,12.37,350,high,HI,Hawaii
+518,28.3,Kihei,2011-07-17,7.95,225,high,HI,Hawaii
+519,7.075,Honolulu,2011-07-03,31.8,225,high,HI,Hawaii
+520,28.3,Honolulu,2011-06-27,0.71,20,medium,HI,Hawaii
+521,28.3,Kailua Kona,2011-06-17,7.07,200,high,HI,Hawaii
+522,28.3,Hilo,2011-06-13,6.18,175,high,HI,Hawaii
+523,3.54,Hilo,2011-06-12,11.3,40,medium,HI,Hawaii
+524,28.3,Honolulu,2011-06-03,14.13,400,high,HI,Hawaii
+525,3.54,Honolulu,2011-05-29,16.95,60,high,HI,Hawaii
+526,3.54,Ewa Beach,2011-05-22,16.95,60,high,HI,Hawaii
+527,5.0,Wahiawa,2011-05-12,12.0,60,medium,HI,Hawaii
+528,28.3,Waipahu,2011-04-29,12.37,350,high,HI,Hawaii
+529,3.54,Kapaa,2011-04-25,16.95,60,high,HI,Hawaii
+530,3.54,Honolulu,2011-04-21,16.95,60,high,HI,Hawaii
+531,20.0,Maunaloa,2011-04-20,1.0,20,medium,HI,Hawaii
+532,28.3,Honolulu,2011-04-06,12.37,350,high,HI,Hawaii
+533,3.54,Honolulu,2011-03-22,18.36,65,medium,HI,Hawaii
+534,28.3,Aiea,2011-03-11,0.18,5,medium,HI,Hawaii
+535,3.54,Waianae,2011-03-11,18.36,65,medium,HI,Hawaii
+536,3.54,Honolulu,2011-03-06,9.89,35,low,HI,Hawaii
+537,28.3,Kapolei,2011-02-28,10.6,300,high,HI,Hawaii
+538,28.3,Lahaina,2011-02-16,12.72,360,high,HI,Hawaii
+539,28.3,Honolulu,2011-02-10,4.42,125,high,HI,Hawaii
+540,3.54,Aiea,2011-02-07,16.95,60,high,HI,Hawaii
+541,28.3,Honolulu,2011-01-27,1.41,40,medium,HI,Hawaii
+542,14.15,Kailua Kona,2011-01-26,4.24,60,medium,HI,Hawaii
+543,28.3,Honolulu,2011-01-20,1.41,40,medium,HI,Hawaii
+544,28.3,Honolulu,2011-01-02,7.07,200,low,HI,Hawaii
+545,3.54,Honolulu,2010-12-25,19.77,70,medium,HI,Hawaii
+546,28.3,Mililani,2010-12-20,12.72,360,high,HI,Hawaii
+547,14.15,Mililani,2010-12-09,15.55,220,high,HI,Hawaii
+548,3.54,Honolulu,2010-11-30,16.95,60,medium,HI,Hawaii
+549,7.075,Honolulu,2010-11-14,14.13,100,medium,HI,Hawaii
+550,7.075,Waipahu,2010-10-21,16.96,120,high,HI,Hawaii
+551,28.3,Honolulu,2010-10-17,14.13,400,high,HI,Hawaii
+552,28.3,Kaneohe,2010-10-08,15.9,450,high,HI,Hawaii
+553,28.3,Honolulu,2010-10-07,12.37,350,high,HI,Hawaii
+554,3.54,Kula,2010-10-06,16.95,60,medium,HI,Hawaii
+555,3.54,Honolulu,2010-10-03,14.12,50,medium,HI,Hawaii
+556,28.3,Honolulu,2010-10-03,8.48,240,high,HI,Hawaii
+557,3.54,Honolulu,2010-10-01,16.95,60,high,HI,Hawaii
+558,28.3,Honolulu,2010-09-30,15.9,450,high,HI,Hawaii
+559,28.3,Honolulu,2010-09-29,12.72,360,high,HI,Hawaii
+560,3.54,Lahaina,2010-09-24,14.12,50,medium,HI,Hawaii
+561,28.3,Princeville,2010-09-22,14.13,400,high,HI,Hawaii
+562,7.075,Honolulu,2010-09-22,16.96,120,medium,HI,Hawaii
+563,3.54,Honolulu,2010-09-21,16.95,60,medium,HI,Hawaii
+564,28.3,Kailua Kona,2010-09-21,7.07,200,high,HI,Hawaii
+565,3.54,Honolulu,2010-09-20,12.71,45,high,HI,Hawaii
+566,3.54,Honolulu,2010-09-19,14.12,50,high,HI,Hawaii
+567,28.3,Hilo,2010-09-19,7.07,200,high,HI,Hawaii
+568,28.3,Lahaina,2010-09-18,4.24,120,medium,HI,Hawaii
+569,3.54,Kailua Kona,2010-09-17,14.12,50,high,HI,Hawaii
+570,28.3,Lahaina,2010-09-16,13.43,380,high,HI,Hawaii
+571,7.075,Waipahu,2010-09-16,14.13,100,high,HI,Hawaii
+572,28.3,Honolulu,2010-09-15,14.13,400,high,HI,Hawaii
+573,7.075,Kihei,2010-09-15,16.96,120,high,HI,Hawaii
+574,3.54,Honolulu,2010-09-15,16.95,60,high,HI,Hawaii
+575,7.075,Kihei,2010-09-15,14.13,100,high,HI,Hawaii
+576,28.3,Keaau,2010-09-15,7.07,200,high,HI,Hawaii
+577,28.3,Honolulu,2010-09-15,20.32,575,high,HI,Hawaii
+578,7.075,Kailua Kona,2010-09-14,8.48,60,high,HI,Hawaii
+579,28.3,Wahiawa,2010-09-14,14.84,420,high,HI,Hawaii
+580,28.3,Hilo,2010-09-14,8.83,250,high,HI,Hawaii
+581,28.3,Honolulu,2010-09-14,2.12,60,high,HI,Hawaii
+582,3.54,Waialua,2010-09-14,11.3,40,high,HI,Hawaii
+583,7.075,Kihei,2010-09-03,14.13,100,high,HI,Hawaii
+584,3.54,Honolulu,2010-09-02,16.95,60,high,HI,Hawaii
+585,28.3,Anchorage,2013-09-26,3.53,100,high,AK,Alaska
+586,28.3,Anchorage,2013-09-25,0.35,10,high,AK,Alaska
+587,28.3,Chignik,2013-09-23,35.34,1000,medium,AK,Alaska
+588,14.15,Kenai,2013-09-21,10.6,150,medium,AK,Alaska
+589,7.075,Anchorage,2013-09-19,14.13,100,medium,AK,Alaska
+590,28.3,Anchorage,2013-09-17,10.6,300,high,AK,Alaska
+591,5.0,Ketchikan,2013-09-16,20.0,100,high,AK,Alaska
+592,28.3,Anchorage,2013-09-13,3.53,100,low,AK,Alaska
+593,28.3,Nome,2013-09-13,28.27,800,low,AK,Alaska
+594,5.0,Bethel,2013-09-12,20.0,100,high,AK,Alaska
+595,5.0,Akutan,2013-09-12,100.0,500,high,AK,Alaska
+596,3.54,Anchorage,2013-09-10,11.3,40,low,AK,Alaska
+597,5.0,Sitka,2013-09-10,10.0,50,medium,AK,Alaska
+598,3.54,Anchorage,2013-09-04,11.3,40,medium,AK,Alaska
+599,28.3,Akiachak,2013-09-04,14.13,400,high,AK,Alaska
+600,28.3,Wasilla,2013-09-02,3.53,100,medium,AK,Alaska
+601,3.54,Homer,2013-08-30,11.3,40,medium,AK,Alaska
+602,28.3,Wasilla,2013-08-30,10.6,300,medium,AK,Alaska
+603,28.3,Atka,2013-08-28,0.18,5,medium,AK,Alaska
+604,28.3,Delta Junction,2013-08-25,0.71,20,medium,AK,Alaska
+605,14.15,Wasilla,2013-08-25,12.01,170,medium,AK,Alaska
+606,3.54,Anchorage,2013-08-24,11.3,40,medium,AK,Alaska
+607,3.54,Anchorage,2013-08-23,11.3,40,low,AK,Alaska
+608,3.54,Anchorage,2013-08-19,11.3,40,medium,AK,Alaska
+609,28.3,Anchorage,2013-08-17,10.6,300,medium,AK,Alaska
+610,7.075,Anchorage,2013-08-13,5.65,40,medium,AK,Alaska
+611,28.3,Akiachak,2013-08-12,1.77,50,medium,AK,Alaska
+612,28.3,Kenai,2013-08-12,10.6,300,high,AK,Alaska
+613,14.15,Anchorage,2013-08-09,11.31,160,medium,AK,Alaska
+614,7.075,Fairbanks,2013-08-07,14.13,100,medium,AK,Alaska
+615,5.0,Anchorage,2013-08-07,8.0,40,high,AK,Alaska
+616,7.075,Akutan,2013-08-06,42.4,300,high,AK,Alaska
+617,3.54,Fairbanks,2013-08-05,14.12,50,high,AK,Alaska
+618,3.54,Chugiak,2013-08-04,11.3,40,high,AK,Alaska
+619,10.0,Barrow,2013-08-03,10.0,100,medium,AK,Alaska
+620,3.54,Anchorage,2013-08-01,11.3,40,high,AK,Alaska
+621,28.3,Anchorage,2013-07-31,11.31,320,high,AK,Alaska
+622,3.54,Adak,2013-07-30,14.12,50,high,AK,Alaska
+623,28.3,Anchorage,2013-07-29,9.19,260,high,AK,Alaska
+624,3.54,Barrow,2013-07-28,28.25,100,high,AK,Alaska
+625,28.3,Barrow,2013-07-28,17.67,500,high,AK,Alaska
+626,3.54,Anchorage,2013-07-24,5.65,20,medium,AK,Alaska
+627,28.3,Anchorage,2013-07-24,1.41,40,high,AK,Alaska
+628,3.54,Anchorage,2013-07-23,5.65,20,medium,AK,Alaska
+629,28.3,Anchorage,2013-07-23,9.89,280,high,AK,Alaska
+630,28.3,Anchorage,2013-07-23,3.53,100,medium,AK,Alaska
+631,14.15,Adak,2013-07-17,7.07,100,high,AK,Alaska
+632,28.3,Juneau,2013-07-17,3.53,100,medium,AK,Alaska
+633,3.54,Juneau,2013-07-16,16.95,60,high,AK,Alaska
+634,7.075,Wasilla,2013-07-14,11.31,80,medium,AK,Alaska
+635,28.3,Palmer,2013-07-13,0.18,5,medium,AK,Alaska
+636,28.3,Anchorage,2013-07-13,3.53,100,medium,AK,Alaska
+637,28.3,Glennallen,2013-07-09,17.67,500,medium,AK,Alaska
+638,20.0,Anaktuvuk Pass,2013-07-05,0.5,10,low,AK,Alaska
+639,28.3,Fairbanks,2013-07-05,2.12,60,medium,AK,Alaska
+640,28.3,Anchorage,2013-07-02,8.83,250,high,AK,Alaska
+641,20.0,Anchorage,2013-07-01,1.0,20,high,AK,Alaska
+642,28.3,Anchorage,2013-06-30,7.07,200,medium,AK,Alaska
+643,28.3,Anchorage,2013-06-24,35.34,1000,high,AK,Alaska
+644,20.0,Sitka,2013-06-24,15.0,300,high,AK,Alaska
+645,20.0,Sitka,2013-06-24,1.25,25,high,AK,Alaska
+646,5.0,Fairbanks,2013-06-23,13.8,69,high,AK,Alaska
+647,28.3,Juneau,2013-06-23,0.88,25,medium,AK,Alaska
+648,28.3,Homer,2013-06-20,9.89,280,medium,AK,Alaska
+649,3.54,Anchorage,2013-06-20,5.65,20,medium,AK,Alaska
+650,28.3,Anchorage,2013-06-19,10.6,300,high,AK,Alaska
+651,7.075,Skagway,2013-06-17,16.96,120,medium,AK,Alaska
+652,14.15,Akutan,2013-06-15,42.4,600,medium,AK,Alaska
+653,28.3,Anchorage,2013-06-13,3.53,100,high,AK,Alaska
+654,14.15,Fairbanks,2013-06-08,11.31,160,medium,AK,Alaska
+655,3.54,Sitka,2013-06-07,7.06,25,medium,AK,Alaska
+656,3.54,Anchorage,2013-06-04,5.65,20,medium,AK,Alaska
+657,28.3,Anchorage,2013-06-02,10.25,290,high,AK,Alaska
+658,28.3,Anchorage,2013-06-01,15.9,450,low,AK,Alaska
+659,5.0,Adak,2013-06-01,3.0,15,low,AK,Alaska
+660,5.0,Atka,2013-05-28,10.0,50,medium,AK,Alaska
+661,3.54,Anchorage,2013-05-24,11.3,40,medium,AK,Alaska
+662,28.3,Anchorage,2013-05-22,7.07,200,high,AK,Alaska
+663,28.3,Anchorage,2013-05-20,0.88,25,high,AK,Alaska
+664,28.3,Adak,2013-05-20,12.37,350,medium,AK,Alaska
+665,28.3,Chevak,2013-05-20,0.04,1,medium,AK,Alaska
+666,3.54,Fairbanks,2013-05-18,14.12,50,medium,AK,Alaska
+667,3.54,Anchorage,2013-05-16,11.3,40,medium,AK,Alaska
+668,28.3,Anchorage,2013-05-15,2.83,80,high,AK,Alaska
+669,28.3,Juneau,2013-05-14,5.3,150,medium,AK,Alaska
+670,5.0,Haines,2013-05-14,5.0,25,high,AK,Alaska
+671,3.54,Anchorage,2013-05-10,15.54,55,medium,AK,Alaska
+672,28.3,Naknek,2013-05-10,1.41,40,medium,AK,Alaska
+673,28.3,Akiachak,2013-05-05,8.48,240,medium,AK,Alaska
+674,7.075,Ketchikan,2013-05-03,21.2,150,high,AK,Alaska
+675,3.54,Anchorage,2013-05-02,11.3,40,medium,AK,Alaska
+676,3.54,Prudhoe Bay,2013-05-02,16.95,60,medium,AK,Alaska
+677,28.3,Anchorage,2013-04-26,0.35,10,medium,AK,Alaska
+678,28.3,Akiachak,2013-04-25,0.53,15,medium,AK,Alaska
+679,28.3,Akiachak,2013-04-24,1.41,40,high,AK,Alaska
+680,28.3,Fairbanks,2013-04-23,12.01,340,medium,AK,Alaska
+681,7.075,Anchorage,2013-04-23,5.65,40,medium,AK,Alaska
+682,5.0,Anchorage,2013-04-22,4.0,20,high,AK,Alaska
+683,28.3,Anchorage,2013-04-21,0.71,20,medium,AK,Alaska
+684,28.3,Soldotna,2013-04-21,1.77,50,high,AK,Alaska
+685,3.54,Fairbanks,2013-04-20,14.12,50,high,AK,Alaska
+686,28.3,Anchorage,2013-04-18,9.89,280,high,AK,Alaska
+687,28.3,Anchorage,2013-04-18,35.3,999,high,AK,Alaska
+688,3.54,Anchorage,2013-04-18,11.3,40,medium,AK,Alaska
+689,28.3,Adak,2013-04-16,1.41,40,medium,AK,Alaska
+690,3.54,Anchorage,2013-04-14,11.3,40,medium,AK,Alaska
+691,3.54,Adak,2013-04-13,13.84,49,high,AK,Alaska
+692,7.075,Adak,2013-04-12,16.96,120,high,AK,Alaska
+693,28.3,Anchorage,2013-04-11,0.53,15,medium,AK,Alaska
+694,28.3,Akiachak,2013-04-08,14.13,400,medium,AK,Alaska
+695,10.0,Akutan,2013-04-07,1.0,10,high,AK,Alaska
+696,28.3,Anchorage,2013-04-05,0.71,20,medium,AK,Alaska
+697,28.3,Anchorage,2013-04-03,31.8,900,medium,AK,Alaska
+698,14.15,Akutan,2013-03-30,17.67,250,high,AK,Alaska
+699,14.15,Anchorage,2013-03-29,11.31,160,high,AK,Alaska
+700,28.3,Petersburg,2013-03-29,17.67,500,low,AK,Alaska
+701,28.3,Anchorage,2013-03-28,10.6,300,medium,AK,Alaska
+702,28.3,Ketchikan,2013-03-27,15.9,450,high,AK,Alaska
+703,28.3,Akiachak,2013-03-25,0.04,1,high,AK,Alaska
+704,28.3,Anchorage,2013-03-24,5.12,145,medium,AK,Alaska
+705,28.3,Allakaket,2013-03-22,0.88,25,high,AK,Alaska
+706,5.0,Anchorage,2013-03-21,12.0,60,high,AK,Alaska
+707,14.15,Anchorage,2013-03-20,24.73,350,medium,AK,Alaska
+708,28.3,Anchorage,2013-03-19,11.31,320,high,AK,Alaska
+709,28.3,Allakaket,2013-03-17,2.08,59,medium,AK,Alaska
+710,28.3,Anchorage,2013-03-13,12.37,350,medium,AK,Alaska
+711,5.0,Anchorage,2013-03-09,4.0,20,low,AK,Alaska
+712,14.15,Anchorage,2013-03-08,7.07,100,medium,AK,Alaska
+713,3.54,Soldotna,2013-03-07,5.65,20,medium,AK,Alaska
+714,28.3,Akiachak,2013-03-07,3.53,100,medium,AK,Alaska
+715,5.0,Juneau,2013-03-06,20.0,100,medium,AK,Alaska
+716,28.3,Anchorage,2013-03-04,1.06,30,high,AK,Alaska
+717,7.075,Wasilla,2013-03-01,8.48,60,medium,AK,Alaska
+718,3.54,Cordova,2013-02-27,22.6,80,medium,AK,Alaska
+719,3.54,Akiachak,2013-02-25,16.95,60,medium,AK,Alaska
+720,28.3,Wasilla,2013-02-25,7.07,200,high,AK,Alaska
+721,5.0,Fairbanks,2013-02-22,12.0,60,medium,AK,Alaska
+722,28.3,Bethel,2013-02-21,10.6,300,high,AK,Alaska
+723,28.3,Anchorage,2013-02-20,0.71,20,medium,AK,Alaska
+724,28.3,Anchorage,2013-02-17,5.65,160,high,AK,Alaska
+725,28.3,Wasilla,2013-02-15,8.83,250,medium,AK,Alaska
+726,15.0,Kodiak,2013-02-14,13.33,200,high,AK,Alaska
+727,5.0,Anchorage,2013-02-14,1.0,5,medium,AK,Alaska
+728,28.3,Alaska Peninsula Nwr,2013-02-13,7.07,200,medium,AK,Alaska
+729,28.3,Fairbanks,2013-02-13,12.37,350,medium,AK,Alaska
+730,28.3,Bethel,2013-02-11,21.2,600,medium,AK,Alaska
+731,14.15,Anchorage,2013-02-10,10.6,150,high,AK,Alaska
+732,28.3,Chevak,2013-02-10,1.77,50,high,AK,Alaska
+733,28.3,Chevak,2013-02-10,1.77,50,high,AK,Alaska
+734,10.0,Emmonak,2013-02-06,50.0,500,medium,AK,Alaska
+735,10.0,Bethel,2013-02-05,5.0,50,low,AK,Alaska
+736,28.3,Bethel,2013-01-28,24.73,700,medium,AK,Alaska
+737,28.3,Shishmaref,2013-01-28,35.34,1000,high,AK,Alaska
+738,28.3,Akiachak,2013-01-27,8.27,234,medium,AK,Alaska
+739,28.3,Akutan,2013-01-26,35.34,1000,low,AK,Alaska
+740,28.3,Akiachak,2013-01-26,5.3,150,high,AK,Alaska
+741,5.0,Anchorage,2013-01-24,10.0,50,medium,AK,Alaska
+742,25.0,Akiachak,2013-01-23,40.0,1000,high,AK,Alaska
+743,5.0,Auke Bay,2013-01-18,20.0,100,high,AK,Alaska
+744,28.3,Anchorage,2013-01-15,0.71,20,high,AK,Alaska
+745,28.3,Anchorage,2013-01-14,10.25,290,medium,AK,Alaska
+746,28.3,Anchorage,2013-01-14,0.35,10,medium,AK,Alaska
+747,14.15,Anchorage,2013-01-14,10.6,150,medium,AK,Alaska
+748,10.0,Barrow,2013-01-10,10.0,100,medium,AK,Alaska
+749,28.3,Anchorage,2013-01-10,1.77,50,high,AK,Alaska
+750,28.3,Anchorage,2013-01-10,3.53,100,high,AK,Alaska
+751,28.3,Kodiak,2013-01-10,1.77,50,medium,AK,Alaska
+752,5.0,Fairbanks,2013-01-09,20.0,100,medium,AK,Alaska
+753,5.0,Anchorage,2013-01-08,20.0,100,medium,AK,Alaska
+754,28.3,Fairbanks,2013-01-08,1.77,50,medium,AK,Alaska
+755,28.3,Chugiak,2013-01-07,14.13,400,high,AK,Alaska
+756,5.0,Kotzebue,2013-01-05,24.0,120,low,AK,Alaska
+757,28.3,Anchorage,2013-01-04,13.25,375,high,AK,Alaska
+758,5.0,Soldotna,2013-01-03,12.0,60,medium,AK,Alaska
+759,10.0,Adak,2013-01-03,1.0,10,medium,AK,Alaska
+760,28.3,Ambler,2013-01-03,27.07,766,high,AK,Alaska
+761,28.3,Fairbanks,2013-01-01,10.6,300,high,AK,Alaska
+762,5.0,Anchorage,2012-12-31,4.0,20,high,AK,Alaska
+763,3.54,Wasilla,2012-12-29,11.3,40,medium,AK,Alaska
+764,5.0,Anaktuvuk Pass,2012-12-28,6.0,30,medium,AK,Alaska
+765,5.0,Ambler,2012-12-28,7.8,39,high,AK,Alaska
+766,14.15,Anchorage,2012-12-27,11.31,160,high,AK,Alaska
+767,28.3,Anchorage,2012-12-20,14.13,400,medium,AK,Alaska
+768,5.0,Juneau,2012-12-19,20.0,100,high,AK,Alaska
+769,5.0,Juneau,2012-12-18,10.0,50,high,AK,Alaska
+770,28.3,Juneau,2012-12-17,10.6,300,high,AK,Alaska
+771,10.0,North Pole,2012-12-15,2.0,20,medium,AK,Alaska
+772,28.3,Prudhoe Bay,2012-12-14,21.2,600,high,AK,Alaska
+773,5.0,Nome,2012-12-12,25.0,125,medium,AK,Alaska
+774,28.3,Anchorage,2012-12-11,0.71,20,medium,AK,Alaska
+775,28.3,Fairbanks,2012-12-10,12.37,350,high,AK,Alaska
+776,28.3,Anchorage,2012-12-08,3.53,100,high,AK,Alaska
+777,3.54,Cordova,2012-12-06,28.25,100,low,AK,Alaska
+778,3.54,Palmer,2012-12-06,22.6,80,medium,AK,Alaska
+779,28.3,Anchorage,2012-12-04,10.6,300,medium,AK,Alaska
+780,28.3,Wasilla,2012-12-03,7.07,200,medium,AK,Alaska
+781,28.3,Anchorage,2012-12-02,3.53,100,high,AK,Alaska
+782,3.54,North Pole,2012-11-29,14.12,50,medium,AK,Alaska
+783,5.0,Bethel,2012-11-29,10.0,50,medium,AK,Alaska
+784,28.3,Fairbanks,2012-11-29,10.6,300,medium,AK,Alaska
+785,28.3,Anchorage,2012-11-28,8.83,250,high,AK,Alaska
+786,28.3,Adak,2012-11-25,0.71,20,high,AK,Alaska
+787,28.3,Anchorage,2012-11-25,12.37,350,medium,AK,Alaska
+788,28.3,Anchorage,2012-11-23,10.6,300,medium,AK,Alaska
+789,28.3,Anchorage,2012-11-22,1.77,50,medium,AK,Alaska
+790,10.0,Craig,2012-11-20,20.0,200,medium,AK,Alaska
+791,28.3,Alaska Peninsula Nwr,2012-11-19,3.53,100,high,AK,Alaska
+792,14.15,Akiachak,2012-11-19,1.41,20,high,AK,Alaska
+793,14.15,Fairbanks,2012-11-18,14.13,200,medium,AK,Alaska
+794,28.3,Adak,2012-11-18,35.34,1000,low,AK,Alaska
+795,28.3,Anchorage,2012-11-18,2.12,60,high,AK,Alaska
+796,10.0,Anchorage,2012-11-17,2.0,20,medium,AK,Alaska
+797,7.075,Fairbanks,2012-11-17,11.31,80,medium,AK,Alaska
+798,28.3,Anchorage,2012-11-17,11.31,320,high,AK,Alaska
+799,28.3,Anchorage,2012-11-16,10.6,300,medium,AK,Alaska
+800,3.54,Anchorage,2012-11-12,22.6,80,medium,AK,Alaska
+801,5.0,Fairbanks,2012-11-11,25.0,125,medium,AK,Alaska
+802,5.0,Fairbanks,2012-11-11,25.0,125,medium,AK,Alaska
+803,3.54,Fairbanks,2012-11-11,14.12,50,medium,AK,Alaska
+804,7.075,Anchorage,2012-11-10,2.83,20,medium,AK,Alaska
+805,28.3,Anchorage,2012-11-09,3.18,90,low,AK,Alaska
+806,14.15,Akiachak,2012-11-09,28.27,400,medium,AK,Alaska
+807,7.075,Anchorage,2012-11-07,12.01,85,high,AK,Alaska
+808,1.0,Fairbanks,2012-11-07,20.0,20,high,AK,Alaska
+809,5.0,Fairbanks,2012-11-07,20.0,100,high,AK,Alaska
+810,28.3,Anchorage,2012-11-07,11.31,320,medium,AK,Alaska
+811,3.54,Anchorage,2012-11-05,11.3,40,high,AK,Alaska
+812,28.3,Eielson Afb,2012-11-02,0.04,1,medium,AK,Alaska
+813,3.54,Adak,2012-11-02,16.95,60,high,AK,Alaska
+814,28.3,Homer,2012-11-02,8.83,250,high,AK,Alaska
+815,28.3,Ambler,2012-11-01,5.3,150,high,AK,Alaska
+816,28.3,Anchorage,2012-10-30,1.02,29,medium,AK,Alaska
+817,28.3,Kodiak,2012-10-27,12.37,350,medium,AK,Alaska
+818,28.3,Anchorage,2012-10-26,11.31,320,high,AK,Alaska
+819,3.54,Anaktuvuk Pass,2012-10-25,84.75,300,medium,AK,Alaska
+820,28.3,Anchorage,2012-10-25,3.53,100,high,AK,Alaska
+821,28.3,Anchorage,2012-10-24,3.53,100,medium,AK,Alaska
+822,28.3,Fairbanks,2012-10-22,2.12,60,medium,AK,Alaska
+823,28.3,Anchorage,2012-10-21,8.83,250,high,AK,Alaska
+824,28.3,Anchorage,2012-10-20,0.18,5,high,AK,Alaska
+825,28.3,Anchorage,2012-10-19,10.6,300,medium,AK,Alaska
+826,28.3,Adak,2012-10-19,7.07,200,medium,AK,Alaska
+827,3.54,Anchorage,2012-10-19,11.3,40,medium,AK,Alaska
+828,28.3,Anchorage,2012-10-12,0.71,20,medium,AK,Alaska
+829,3.54,Akiachak,2012-10-09,12.71,45,high,AK,Alaska
+830,5.0,Anchorage,2012-10-09,6.0,30,high,AK,Alaska
+831,28.3,Eagle River,2012-10-07,3.07,87,low,AK,Alaska
+832,28.3,Anchorage,2012-10-06,11.31,320,high,AK,Alaska
+833,7.075,Anchorage,2012-09-29,2.83,20,medium,AK,Alaska
+834,5.0,Douglas,2012-09-26,1.0,5,medium,AK,Alaska
+835,28.3,Anchorage,2012-09-26,8.83,250,medium,AK,Alaska
+836,28.3,Wasilla,2012-09-25,8.83,250,high,AK,Alaska
+837,28.3,Anchorage,2012-09-24,10.6,300,medium,AK,Alaska
+838,28.3,Anchorage,2012-09-24,2.83,80,medium,AK,Alaska
+839,10.0,Wasilla,2012-09-24,5.0,50,high,AK,Alaska
+840,10.0,Adak,2012-09-21,1.0,10,high,AK,Alaska
+841,14.15,Alaska Peninsula Nwr,2012-09-15,1.41,20,high,AK,Alaska
+842,20.0,Anchorage,2012-09-11,1.5,30,medium,AK,Alaska
+843,1.0,Fairbanks,2012-09-09,10.0,10,medium,AK,Alaska
+844,28.3,Anchorage,2012-09-09,5.3,150,medium,AK,Alaska
+845,5.0,Eagle River,2012-09-05,8.0,40,low,AK,Alaska
+846,28.3,Girdwood,2012-09-04,11.31,320,medium,AK,Alaska
+847,3.54,Anchorage,2012-09-04,11.3,40,medium,AK,Alaska
+848,14.15,Anchorage,2012-08-30,10.6,150,low,AK,Alaska
+849,28.3,Mc Grath,2012-08-29,14.13,400,high,AK,Alaska
+850,28.3,Fairbanks,2012-08-28,11.31,320,high,AK,Alaska
+851,28.3,Anchor Point,2012-08-25,1.77,50,high,AK,Alaska
+852,28.3,Anchorage,2012-08-24,9.89,280,high,AK,Alaska
+853,3.54,Adak,2012-08-24,11.3,40,medium,AK,Alaska
+854,20.0,Anchorage,2012-08-22,1.0,20,medium,AK,Alaska
+855,5.0,Alaska Peninsula Nwr,2012-08-21,30.0,150,high,AK,Alaska
+856,28.3,Wasilla,2012-08-20,8.83,250,high,AK,Alaska
+857,28.3,Anchorage,2012-08-17,2.12,60,medium,AK,Alaska
+858,3.54,Anchorage,2012-08-16,11.3,40,high,AK,Alaska
+859,7.075,Anchorage,2012-08-15,2.83,20,medium,AK,Alaska
+860,20.0,Kodiak,2012-08-14,6.0,120,medium,AK,Alaska
+861,7.075,Tununak,2012-08-12,14.13,100,medium,AK,Alaska
+862,28.3,Fort Wainwright,2012-08-08,9.89,280,medium,AK,Alaska
+863,28.3,Anchorage,2012-08-08,12.37,350,high,AK,Alaska
+864,3.54,Cordova,2012-08-07,28.25,100,medium,AK,Alaska
+865,28.3,Fairbanks,2012-08-02,10.6,300,medium,AK,Alaska
+866,28.3,Anchorage,2012-08-02,9.54,270,medium,AK,Alaska
+867,14.15,Fairbanks,2012-08-01,28.27,400,high,AK,Alaska
+868,3.54,Anchorage,2012-08-01,16.95,60,high,AK,Alaska
+869,3.54,Anchorage,2012-08-01,22.6,80,high,AK,Alaska
+870,28.3,Anchorage,2012-08-01,0.71,20,high,AK,Alaska
+871,3.54,Naknek,2012-08-01,28.25,100,medium,AK,Alaska
+872,28.3,Anchorage,2012-07-30,10.6,300,medium,AK,Alaska
+873,28.3,Anchorage,2012-07-27,8.83,250,high,AK,Alaska
+874,7.075,Anchorage,2012-07-27,5.65,40,medium,AK,Alaska
+875,28.3,Anchorage,2012-07-27,0.53,15,medium,AK,Alaska
+876,7.075,Fairbanks,2012-07-25,14.13,100,medium,AK,Alaska
+877,7.075,Fairbanks,2012-07-24,14.13,100,medium,AK,Alaska
+878,14.15,Anchorage,2012-07-22,10.6,150,high,AK,Alaska
+879,15.0,Alaska Peninsula Nwr,2012-07-21,6.67,100,high,AK,Alaska
+880,20.0,Akutan,2012-07-18,0.75,15,medium,AK,Alaska
+881,3.54,Juneau,2012-07-17,16.95,60,high,AK,Alaska
+882,14.15,Fairbanks,2012-07-17,10.6,150,medium,AK,Alaska
+883,20.0,Anchorage,2012-07-17,1.0,20,medium,AK,Alaska
+884,14.15,Anchorage,2012-07-14,12.72,180,high,AK,Alaska
+885,3.54,Anchorage,2012-07-13,16.95,60,medium,AK,Alaska
+886,28.3,Anchor Point,2012-07-12,0.04,1,high,AK,Alaska
+887,5.0,Wasilla,2012-07-12,80.6,403,high,AK,Alaska
+888,28.3,Anchorage,2012-07-11,11.31,320,high,AK,Alaska
+889,28.3,Anchorage,2012-07-10,8.83,250,high,AK,Alaska
+890,5.0,Akutan,2012-07-10,1.0,5,high,AK,Alaska
+891,3.54,Anchorage,2012-07-06,11.3,40,high,AK,Alaska
+892,5.0,Wasilla,2012-07-05,4.0,20,medium,AK,Alaska
+893,7.075,Juneau,2012-07-02,16.96,120,medium,AK,Alaska
+894,3.54,Anchorage,2012-07-01,11.3,40,medium,AK,Alaska
+895,28.3,Fairbanks,2012-06-29,1.24,35,low,AK,Alaska
+896,28.3,Akiachak,2012-06-29,0.04,1,medium,AK,Alaska
+897,28.3,Juneau,2012-06-27,0.71,20,medium,AK,Alaska
+898,28.3,Adak,2012-06-25,7.07,200,high,AK,Alaska
+899,3.54,Anchorage,2012-06-24,11.3,40,medium,AK,Alaska
+900,7.075,Adak,2012-06-24,4.95,35,medium,AK,Alaska
+901,7.075,Anchorage,2012-06-21,11.31,80,medium,AK,Alaska
+902,3.54,Delta Junction,2012-06-19,5.65,20,medium,AK,Alaska
+903,28.3,Arctic Village,2012-06-18,1.06,30,medium,AK,Alaska
+904,28.3,Fairbanks,2012-06-18,10.6,300,high,AK,Alaska
+905,28.3,Anchorage,2012-06-12,11.31,320,high,AK,Alaska
+906,5.0,Anchorage,2012-06-10,8.0,40,medium,AK,Alaska
+907,3.54,Fairbanks,2012-06-08,14.12,50,high,AK,Alaska
+908,28.3,Anchorage,2012-06-08,0.04,1,high,AK,Alaska
+909,28.3,Anchorage,2012-06-05,10.6,300,medium,AK,Alaska
+910,28.3,Anchorage,2012-06-05,7.07,200,medium,AK,Alaska
+911,5.0,Akutan,2012-06-05,20.0,100,medium,AK,Alaska
+912,28.3,Anchorage,2012-06-01,0.35,10,high,AK,Alaska
+913,28.3,Anchorage,2012-05-30,14.13,400,high,AK,Alaska
+914,3.54,Anchorage,2012-05-29,11.3,40,medium,AK,Alaska
+915,28.3,Anchorage,2012-05-26,12.37,350,high,AK,Alaska
+916,28.3,Ambler,2012-05-25,0.71,20,high,AK,Alaska
+917,28.3,Anchorage,2012-05-23,3.53,100,high,AK,Alaska
+918,3.54,Akiachak,2012-05-23,7.06,25,high,AK,Alaska
+919,3.54,Akiachak,2012-05-23,7.06,25,high,AK,Alaska
+920,3.54,Akiachak,2012-05-23,7.06,25,high,AK,Alaska
+921,20.0,Juneau,2012-05-21,1.0,20,high,AK,Alaska
+922,28.3,Anchorage,2012-05-19,10.6,300,high,AK,Alaska
+923,3.54,Anchorage,2012-05-19,11.3,40,medium,AK,Alaska
+924,28.3,Ketchikan,2012-05-19,15.9,450,medium,AK,Alaska
+925,10.0,Anchorage,2012-05-18,2.0,20,medium,AK,Alaska
+926,28.3,Wasilla,2012-05-14,0.0,0,medium,AK,Alaska
+927,28.3,Anchorage,2012-05-13,10.6,300,medium,AK,Alaska
+928,28.3,Kenai,2012-05-09,3.53,100,medium,AK,Alaska
+929,3.54,Anchorage,2012-05-08,7.06,25,medium,AK,Alaska
+930,28.3,Allakaket,2012-05-05,0.71,20,medium,AK,Alaska
+931,28.3,Anchorage,2012-05-02,13.25,375,high,AK,Alaska
+932,3.54,Anchorage,2012-04-30,5.65,20,medium,AK,Alaska
+933,5.0,Cordova,2012-04-30,20.0,100,medium,AK,Alaska
+934,5.0,Anchorage,2012-04-26,10.0,50,medium,AK,Alaska
+935,28.3,Juneau,2012-04-25,19.79,560,medium,AK,Alaska
+936,28.3,Anchorage,2012-04-24,10.6,300,medium,AK,Alaska
+937,5.0,Anchorage,2012-04-24,14.0,70,medium,AK,Alaska
+938,3.54,Fairbanks,2012-04-24,11.3,40,medium,AK,Alaska
+939,28.3,Anchorage,2012-04-23,21.2,600,high,AK,Alaska
+940,28.3,Palmer,2012-04-23,14.13,400,medium,AK,Alaska
+941,28.3,Kodiak,2012-04-14,35.34,1000,high,AK,Alaska
+942,28.3,Anchorage,2012-04-14,10.6,300,medium,AK,Alaska
+943,3.54,Anchorage,2012-04-08,42.37,150,low,AK,Alaska
+944,3.54,Bethel,2012-04-05,14.12,50,medium,AK,Alaska
+945,7.075,Craig,2012-04-03,14.13,100,high,AK,Alaska
+946,28.3,Nome,2012-04-01,0.35,10,high,AK,Alaska
+947,7.075,Anchorage,2012-03-31,2.12,15,high,AK,Alaska
+948,3.54,Anchorage,2012-03-29,14.12,50,medium,AK,Alaska
+949,28.3,Anchorage,2012-03-27,1.41,40,medium,AK,Alaska
+950,20.0,Anchorage,2012-03-26,1.0,20,low,AK,Alaska
+951,7.075,Anchorage,2012-03-24,11.31,80,medium,AK,Alaska
+952,28.3,Anchorage,2012-03-23,11.31,320,medium,AK,Alaska
+953,3.54,Anchorage,2012-03-21,11.3,40,high,AK,Alaska
+954,28.3,Anchorage,2012-03-20,3.53,100,medium,AK,Alaska
+955,3.54,Anchorage,2012-03-19,5.65,20,medium,AK,Alaska
+956,3.54,Valdez,2012-03-19,14.12,50,high,AK,Alaska
+957,28.3,Anchorage,2012-03-16,17.67,500,medium,AK,Alaska
+958,3.54,Glennallen,2012-03-13,14.12,50,high,AK,Alaska
+959,3.54,Haines,2012-03-05,18.36,65,high,AK,Alaska
+960,28.3,Anchorage,2012-02-12,11.31,320,high,AK,Alaska
+961,3.54,Fairbanks,2012-02-01,14.12,50,high,AK,Alaska
+962,14.15,Anchorage,2012-01-23,11.31,160,high,AK,Alaska
+963,28.3,Moose Pass,2011-12-27,8.83,250,high,AK,Alaska
+964,28.3,Anchorage,2011-12-22,0.71,20,medium,AK,Alaska
+965,3.54,Fairbanks,2011-12-22,14.12,50,medium,AK,Alaska
+966,3.54,Anchorage,2011-12-02,11.3,40,medium,AK,Alaska
+967,28.3,Wasilla,2011-11-18,8.48,240,medium,AK,Alaska
+968,28.3,Wasilla,2011-11-09,9.19,260,medium,AK,Alaska
+969,3.54,Anchorage,2011-10-26,11.3,40,medium,AK,Alaska
+970,28.3,Ketchikan,2011-10-26,15.9,450,high,AK,Alaska
+971,3.54,Anchorage,2011-10-12,11.3,40,high,AK,Alaska
+972,5.0,Petersburg,2011-09-27,13.0,65,medium,AK,Alaska
+973,3.54,Anchorage,2011-09-20,11.3,40,high,AK,Alaska
+974,3.54,Anchorage,2011-09-17,11.3,40,medium,AK,Alaska
+975,3.54,Anchorage,2011-09-07,11.3,40,high,AK,Alaska
+976,5.0,Dillingham,2011-09-02,20.0,100,high,AK,Alaska
+977,7.075,Tok,2011-09-01,14.13,100,high,AK,Alaska
+978,3.54,Anchorage,2011-08-30,11.3,40,high,AK,Alaska
+979,7.075,Fairbanks,2011-08-29,14.13,100,high,AK,Alaska
+980,28.3,Ketchikan,2011-08-29,17.67,500,medium,AK,Alaska
+981,7.075,Anchorage,2011-08-28,11.31,80,medium,AK,Alaska
+982,5.0,Anchorage,2011-08-23,20.0,100,high,AK,Alaska
+983,28.3,Fairbanks,2011-08-23,15.02,425,medium,AK,Alaska
+984,14.15,Anchorage,2011-08-22,5.65,80,medium,AK,Alaska
+985,3.54,Juneau,2011-08-16,16.95,60,medium,AK,Alaska
+986,28.3,Anchorage,2011-08-05,10.6,300,low,AK,Alaska
+987,28.3,Anchorage,2011-07-16,9.89,280,high,AK,Alaska
+988,28.3,Anchorage,2011-07-16,8.83,250,high,AK,Alaska
+989,28.3,Anchorage,2011-07-09,11.31,320,high,AK,Alaska
+990,3.54,Fairbanks,2011-07-07,14.12,50,high,AK,Alaska
+991,28.3,Anchorage,2011-06-19,9.19,260,medium,AK,Alaska
+992,3.54,Eagle River,2011-06-17,11.3,40,medium,AK,Alaska
+993,28.3,Eagle River,2011-05-20,8.83,250,high,AK,Alaska
+994,3.54,Eagle River,2011-05-16,11.3,40,medium,AK,Alaska
+995,3.54,Sitka,2011-05-14,18.36,65,high,AK,Alaska
+996,5.0,Fairbanks,2011-05-05,20.0,100,medium,AK,Alaska
+997,28.3,Anchorage,2011-05-01,8.83,250,medium,AK,Alaska
+998,28.3,Anchorage,2011-04-23,11.31,320,high,AK,Alaska
+999,3.54,Anchorage,2011-04-22,11.3,40,high,AK,Alaska
+1000,3.54,Fairbanks,2011-04-21,14.12,50,high,AK,Alaska
+1001,5.0,Fairbanks,2011-04-04,14.0,70,high,AK,Alaska
+1002,3.54,Fairbanks,2011-03-19,14.12,50,high,AK,Alaska
+1003,3.54,Anchorage,2011-03-10,11.3,40,medium,AK,Alaska
+1004,3.54,Fairbanks,2011-03-02,11.3,40,high,AK,Alaska
+1005,3.54,Juneau,2011-02-27,16.95,60,medium,AK,Alaska
+1006,28.3,Wasilla,2011-02-23,9.19,260,high,AK,Alaska
+1007,3.54,Anchorage,2011-02-20,11.3,40,medium,AK,Alaska
+1008,28.3,Wasilla,2011-02-16,11.31,320,high,AK,Alaska
+1009,3.54,Anchorage,2011-02-11,11.3,40,medium,AK,Alaska
+1010,28.3,Eagle River,2011-01-24,9.89,280,high,AK,Alaska
+1011,7.075,Anchorage,2011-01-22,11.31,80,high,AK,Alaska
+1012,28.3,Anchorage,2011-01-03,11.31,320,medium,AK,Alaska
+1013,28.3,Ketchikan,2011-01-02,21.2,600,medium,AK,Alaska
+1014,28.3,Anchorage,2010-12-27,8.83,250,high,AK,Alaska
+1015,5.0,Ketchikan,2010-12-27,25.0,125,medium,AK,Alaska
+1016,7.075,Ketchikan,2010-11-07,17.67,125,medium,AK,Alaska
+1017,7.075,Tok,2010-11-04,14.13,100,high,AK,Alaska
+1018,28.3,Wasilla,2010-11-02,10.6,300,high,AK,Alaska
+1019,28.3,Tok,2010-10-27,14.13,400,high,AK,Alaska
+1020,3.54,Anchorage,2010-10-18,11.3,40,high,AK,Alaska
+1021,28.3,Tok,2010-10-17,14.13,400,medium,AK,Alaska
+1022,28.3,Homer,2010-10-07,11.31,320,medium,AK,Alaska
+1023,28.3,Soldotna,2010-10-06,10.6,300,medium,AK,Alaska
+1024,28.3,Juneau,2010-10-06,14.13,400,medium,AK,Alaska
+1025,28.3,Anchorage,2010-10-04,11.31,320,high,AK,Alaska
+1026,28.3,Tok,2010-10-03,14.13,400,high,AK,Alaska
+1027,28.3,Juneau,2010-10-02,16.96,480,high,AK,Alaska
+1028,28.3,Fairbanks,2010-10-01,11.31,320,high,AK,Alaska
+1029,3.54,Anchorage,2010-09-28,11.3,40,high,AK,Alaska
+1030,3.54,Soldotna,2010-09-23,11.3,40,medium,AK,Alaska
+1031,28.3,Fairbanks,2010-09-22,12.37,350,medium,AK,Alaska
+1032,28.3,Anchorage,2010-09-22,11.31,320,medium,AK,Alaska
+1033,3.54,Anchorage,2010-09-22,11.3,40,medium,AK,Alaska
+1034,28.3,Fairbanks,2010-09-21,10.6,300,high,AK,Alaska
+1035,28.3,Anchorage,2010-09-21,14.84,420,medium,AK,Alaska
+1036,28.3,Juneau,2010-09-21,14.13,400,high,AK,Alaska
+1037,28.3,Wasilla,2010-09-20,11.31,320,high,AK,Alaska
+1038,28.3,Anchorage,2010-09-18,8.83,250,medium,AK,Alaska
+1039,28.3,Palmer,2010-09-17,1.24,35,medium,AK,Alaska
+1040,28.3,Anchorage,2010-09-17,11.31,320,high,AK,Alaska
+1041,28.3,Anchorage,2010-09-17,14.13,400,high,AK,Alaska
+1042,28.3,Anchorage,2010-09-17,10.6,300,high,AK,Alaska
+1043,28.3,Homer,2010-09-15,8.83,250,high,AK,Alaska
+1044,28.3,Anchorage,2010-09-15,8.83,250,high,AK,Alaska
+1045,28.3,Anchorage,2010-09-15,9.89,280,high,AK,Alaska
+1046,3.54,Anchorage,2010-09-14,11.3,40,high,AK,Alaska
+1047,28.3,Fairbanks,2010-09-03,8.83,250,high,AK,Alaska
