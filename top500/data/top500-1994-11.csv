@@ -1,0 +1,501 @@
+rank,country,manufacturer,r-max mflops,r-max tflops,system-id,year
+1,Japan,Fujitsu,170000.0,0.17,374,1993
+2,United States,Intel,143400.0,0.1434,1037,1993
+3,United States,Thinking Machines Corporation,59700.0,0.0597,825,1993
+4,United States,Thinking Machines Corporation,50500.0,0.0505,826,1994
+5,Japan,Fujitsu,39800.0,0.039799999999999995,979,1993
+6,Japan,Fujitsu,39800.0,0.039799999999999995,978,1993
+7,Japan,Fujitsu,37200.0,0.037200000000000004,977,1993
+8,United States,Thinking Machines Corporation,30400.0,0.0304,709,1993
+9,United States,Thinking Machines Corporation,30400.0,0.0304,721,1993
+10,Japan,Hitachi,27500.0,0.0275,816,1994
+11,Japan,Hitachi,27500.0,0.0275,460,1993
+12,United States,Cray Inc.,25300.0,0.0253,1054,1994
+13,United States,Cray Inc.,25300.0,0.0253,737,1994
+14,United Kingdom,Cray Inc.,25300.0,0.0253,1057,1994
+15,Canada,NEC,23200.0,0.0232,1242,1994
+16,Japan,NEC,23200.0,0.0232,377,1990
+17,Japan,NEC,23200.0,0.0232,970,1993
+18,Japan,Hitachi,21300.0,0.0213,819,1994
+19,Canada,NEC,20000.0,0.02,58,1991
+20,Japan,NEC,17400.0,0.0174,973,1993
+21,United States,Intel,15200.0,0.0152,868,1994
+22,United States,Intel,15200.0,0.0152,728,1992
+23,United States,Thinking Machines Corporation,15100.0,0.015099999999999999,610,1993
+24,United States,Thinking Machines Corporation,15100.0,0.015099999999999999,779,1992
+25,United States,Thinking Machines Corporation,15100.0,0.015099999999999999,765,1993
+26,United States,Intel,13900.0,0.013900000000000001,547,1991
+27,United States,Cray Inc.,13700.0,0.013699999999999999,572,1992
+28,United States,Cray Inc.,13700.0,0.013699999999999999,579,1993
+29,United States,Cray Inc.,13700.0,0.013699999999999999,582,1993
+30,United Kingdom,Cray Inc.,13700.0,0.013699999999999999,1049,1994
+31,United States,Cray Inc.,13700.0,0.013699999999999999,989,1993
+32,United States,Cray Inc.,13700.0,0.013699999999999999,992,1993
+33,United States,Cray Inc.,13700.0,0.013699999999999999,612,1992
+34,United States,Cray Inc.,13700.0,0.013699999999999999,613,1992
+35,United States,Cray Inc.,13700.0,0.013699999999999999,611,1992
+36,United States,Cray Inc.,13700.0,0.013699999999999999,614,1992
+37,United Kingdom,Cray Inc.,13700.0,0.013699999999999999,1051,1994
+38,"Korea, South",Cray Inc.,13700.0,0.013699999999999999,485,1993
+39,Japan,Cray Inc.,13700.0,0.013699999999999999,1064,1994
+40,United States,Cray Inc.,13700.0,0.013699999999999999,990,1993
+41,United States,Cray Inc.,13700.0,0.013699999999999999,640,1992
+42,United States,Cray Inc.,13700.0,0.013699999999999999,777,1993
+43,United States,Cray Inc.,13700.0,0.013699999999999999,991,1994
+44,United Kingdom,Cray Inc.,13700.0,0.013699999999999999,1065,1994
+45,Japan,Fujitsu,13600.0,0.0136,976,1993
+46,United States,Cray Inc.,12800.0,0.0128,1025,1994
+47,France,Cray Inc.,12800.0,0.0128,1042,1993
+48,France,Cray Inc.,12800.0,0.0128,1291,1994
+49,United Kingdom,Cray Inc.,12800.0,0.0128,1292,1994
+50,Switzerland,Cray Inc.,12800.0,0.0128,1058,1994
+51,United States,Cray Inc.,12800.0,0.0128,1060,1994
+52,Japan,Cray Inc.,12800.0,0.0128,1059,1994
+53,United States,Cray Inc.,12800.0,0.0128,1028,1994
+54,United States,IBM,12100.0,0.0121,1312,1994
+55,United States,IBM,12100.0,0.0121,1313,1994
+56,United States,IBM,12100.0,0.0121,1311,1994
+57,United States,IBM,12100.0,0.0121,1320,1994
+58,Switzerland,IBM,12100.0,0.0121,1307,1994
+59,United States,IBM,12100.0,0.0121,1333,1994
+60,United States,Intel,11900.0,0.0119,768,1993
+61,Germany,NEC,11600.0,0.0116,1006,1994
+62,Japan,NEC,11600.0,0.0116,969,1994
+63,Japan,NEC,11600.0,0.0116,392,1993
+64,Switzerland,NEC,11600.0,0.0116,971,1994
+65,Germany,Cray Inc.,10270.0,0.01027,1021,1994
+66,Japan,Intel,10000.0,0.01,1217,1994
+67,United States,Intel,10000.0,0.01,869,1994
+68,United States,Thinking Machines Corporation,9800.0,0.009800000000000001,650,1993
+69,United States,Thinking Machines Corporation,9800.0,0.009800000000000001,649,1993
+70,Japan,Fujitsu,9650.0,0.00965,975,1993
+71,United States,Thinking Machines Corporation,9500.0,0.0095,828,1992
+72,United States,IBM,9100.0,0.0091,1318,1994
+73,Germany,IBM,9100.0,0.0091,1310,1994
+74,Japan,Thinking Machines Corporation,7700.0,0.0077,832,1994
+75,United States,Thinking Machines Corporation,7700.0,0.0077,519,1993
+76,United States,Thinking Machines Corporation,7700.0,0.0077,1321,1994
+77,United States,Thinking Machines Corporation,7700.0,0.0077,608,1993
+78,France,Thinking Machines Corporation,7700.0,0.0077,188,1992
+79,United States,Thinking Machines Corporation,7700.0,0.0077,657,1993
+80,United States,Thinking Machines Corporation,7700.0,0.0077,677,1992
+81,United States,Thinking Machines Corporation,7700.0,0.0077,686,1993
+82,United States,Intel,7600.0,0.0076,870,1994
+83,Japan,Hitachi,7400.0,0.0074,1212,1994
+84,Japan,Hitachi,7400.0,0.0074,817,1993
+85,Japan,Hitachi,7400.0,0.0074,818,1993
+86,Japan,Hitachi,7100.0,0.0070999999999999995,1209,1993
+87,United States,Kendall Square Research,6923.0,0.006923,813,1994
+88,France,Cray Inc.,6850.0,0.006849999999999999,1026,1993
+89,United States,Cray Inc.,6850.0,0.006849999999999999,1061,1994
+90,United States,Cray Inc.,6850.0,0.006849999999999999,782,1992
+91,United States,Cray Inc.,6850.0,0.006849999999999999,1015,1994
+92,United States,Cray Inc.,6850.0,0.006849999999999999,993,1994
+93,United States,Cray Inc.,6850.0,0.006849999999999999,682,1993
+94,United States,Cray Inc.,6850.0,0.006849999999999999,691,1993
+95,United States,Cray Inc.,6850.0,0.006849999999999999,997,1993
+96,United States,Cray Inc.,6400.0,0.0064,1056,1994
+97,Japan,Cray Inc.,6400.0,0.0064,1236,1994
+98,Germany,KSR/Siemens-Nixdorf,6380.0,0.00638,811,1994
+99,United States,Intel,6250.0,0.00625,688,1992
+100,United States,Intel,6250.0,0.00625,871,1994
+101,Japan,IBM,6100.0,0.0060999999999999995,1331,1994
+102,Japan,NEC,5800.0,0.0058,315,1992
+103,Japan,NEC,5800.0,0.0058,419,1993
+104,Japan,NEC,5800.0,0.0058,469,1992
+105,United States,Thinking Machines Corporation,5700.0,0.0057,829,1994
+106,Germany,Fujitsu,5600.0,0.0056,1089,1994
+107,Germany,Fujitsu,5600.0,0.0056,1033,1993
+108,United States,Thinking Machines Corporation,5200.0,0.0052,542,1993
+109,United States,Thinking Machines Corporation,5200.0,0.0052,596,1993
+110,United States,Thinking Machines Corporation,5200.0,0.0052,744,1993
+111,United States,Meiko,5000.0,0.005,1330,1994
+112,United States,Thinking Machines Corporation,5000.0,0.005,671,1993
+113,United States,Thinking Machines Corporation,5000.0,0.005,844,1994
+114,Japan,NEC,5000.0,0.005,303,1991
+115,United States,NEC,5000.0,0.005,623,1991
+116,Netherlands,NEC,5000.0,0.005,492,1992
+117,Japan,NEC,5000.0,0.005,391,1992
+118,United States,IBM,4800.0,0.0048,531,1993
+119,United States,IBM,4800.0,0.0048,560,1993
+120,United States,Kendall Square Research,4770.0,0.00477,815,1994
+121,France,Cray Inc.,4630.0,0.00463,1237,1994
+122,United States,Cray Inc.,4630.0,0.00463,693,1993
+123,Germany,Intel,4450.0,0.00445,850,1994
+124,United States,Intel,4450.0,0.00445,872,1994
+125,Hong Kong,Intel,4330.0,0.00433,1279,1994
+126,United States,Intel,4330.0,0.00433,625,1992
+127,United States,Intel,4330.0,0.00433,873,1994
+128,Australia,IBM,4190.0,0.00419,1324,1994
+129,United States,Intel,4100.0,0.0040999999999999995,1213,1994
+130,Japan,Fujitsu,4000.0,0.004,276,1990
+131,Japan,Fujitsu,4000.0,0.004,317,1991
+132,Japan,Fujitsu,4000.0,0.004,316,1991
+133,Japan,Fujitsu,4000.0,0.004,342,1990
+134,Japan,Fujitsu,4000.0,0.004,345,1992
+135,Japan,Fujitsu,4000.0,0.004,384,1991
+136,Japan,Fujitsu,4000.0,0.004,373,1992
+137,Japan,Fujitsu,4000.0,0.004,422,1991
+138,Japan,Fujitsu,4000.0,0.004,421,1991
+139,Japan,Fujitsu,4000.0,0.004,448,1992
+140,Germany,Fujitsu,4000.0,0.004,113,1991
+141,Germany,Fujitsu,4000.0,0.004,125,1990
+142,United States,Kendall Square Research,3911.0,0.003911,1231,1994
+143,United States,Kendall Square Research,3911.0,0.003911,1232,1994
+144,United States,Kendall Square Research,3911.0,0.003911,1233,1994
+145,United States,Thinking Machines Corporation,3800.0,0.0038,520,1993
+146,Japan,Thinking Machines Corporation,3800.0,0.0038,247,1993
+147,United States,Thinking Machines Corporation,3800.0,0.0038,541,1993
+148,United States,Thinking Machines Corporation,3800.0,0.0038,590,1993
+149,Germany,Thinking Machines Corporation,3800.0,0.0038,86,1993
+150,Japan,Thinking Machines Corporation,3800.0,0.0038,319,1993
+151,United States,Thinking Machines Corporation,3800.0,0.0038,827,1994
+152,Japan,Thinking Machines Corporation,3800.0,0.0038,424,1992
+153,United States,Thinking Machines Corporation,3800.0,0.0038,804,1993
+154,United States,SGI,3715.0,0.003715,1198,1994
+155,United States,SGI,3715.0,0.003715,1129,1994
+156,United States,SGI,3715.0,0.003715,1130,1994
+157,Mexico,SGI,3715.0,0.003715,1135,1994
+158,Germany,Fujitsu,3624.0,0.003624,115,1991
+159,Germany,Fujitsu,3624.0,0.003624,121,1991
+160,Germany,SGI,3624.0,0.003624,1116,1994
+161,United States,SGI,3624.0,0.003624,1122,1994
+162,United States,SGI,3624.0,0.003624,891,1994
+163,United States,SGI,3624.0,0.003624,1128,1994
+164,United States,SGI,3624.0,0.003624,1136,1994
+165,United States,Intel,3430.0,0.0034300000000000003,874,1994
+166,United States,Kendall Square Research,3380.0,0.0033799999999999998,773,1993
+167,United States,Kendall Square Research,3380.0,0.0033799999999999998,558,1992
+168,United States,Kendall Square Research,3380.0,0.0033799999999999998,1298,1993
+169,Germany,SGI,3297.0,0.003297,1138,1994
+170,Germany,SGI/Siemens-Nixdorf,3297.0,0.003297,1274,1994
+171,Netherlands,SGI,3297.0,0.003297,1139,1994
+172,Greece,SGI,3297.0,0.003297,1137,1994
+173,Spain,Cray Inc.,3275.0,0.0032749999999999997,998,1994
+174,France,Cray Inc.,3275.0,0.0032749999999999997,177,1993
+175,Netherlands,Cray Inc.,3275.0,0.0032749999999999997,1032,1994
+176,Germany,Cray Inc.,3275.0,0.0032749999999999997,1001,1994
+177,Germany,Cray Inc.,3275.0,0.0032749999999999997,1062,1994
+178,Switzerland,Intel,3210.0,0.00321,1216,1994
+179,Norway,Intel,3210.0,0.00321,1218,1994
+180,Germany,Cray Inc.,3200.0,0.0032,1286,1994
+181,United States,Cray Inc.,3200.0,0.0032,1322,1994
+182,United States,Cray Inc.,3200.0,0.0032,1241,1994
+183,Germany,Cray Inc.,3200.0,0.0032,1335,1994
+184,Belgium,IBM,3000.0,0.003,1285,1994
+185,United States,IBM,3000.0,0.003,1334,1994
+186,Japan,NEC,2900.0,0.0029,379,1992
+187,Brazil,NEC,2900.0,0.0029,55,1993
+188,Japan,NEC,2900.0,0.0029,413,1992
+189,United States,Cray Computer,2862.0,0.002862,1283,1994
+190,United States,SGI,2816.0,0.002816,1140,1994
+191,United States,SGI,2816.0,0.002816,1127,1994
+192,France,Meiko,2800.0,0.0028,1048,1994
+193,Switzerland,Meiko,2800.0,0.0028,1304,1994
+194,Germany,IBM,2650.0,0.00265,1309,1994
+195,Germany,Thinking Machines Corporation,2600.0,0.0026,69,1990
+196,United States,Thinking Machines Corporation,2600.0,0.0026,839,1994
+197,United States,Intel,2600.0,0.0026,526,1990
+198,United Kingdom,Intel,2600.0,0.0026,215,1991
+199,United States,Intel,2600.0,0.0026,616,1992
+200,United Kingdom,Intel,2600.0,0.0026,1332,1994
+201,United States,Intel,2600.0,0.0026,615,1991
+202,United States,Intel,2600.0,0.0026,622,1990
+203,United States,Intel,2600.0,0.0026,643,1992
+204,United States,Intel,2600.0,0.0026,687,1990
+205,United States,Intel,2600.0,0.0026,712,1990
+206,France,Intel,2600.0,0.0026,191,1991
+207,United States,Intel,2600.0,0.0026,726,1989
+208,Japan,Kendall Square Research,2535.0,0.002535,1230,1993
+209,United States,Kendall Square Research,2535.0,0.002535,597,1993
+210,United States,Hewlett-Packard,2531.0,0.0025310000000000003,1260,1994
+211,France,Cray Inc.,2489.0,0.002489,999,1994
+212,United States,SGI,2450.0,0.0024500000000000004,1121,1994
+213,United States,SGI,2450.0,0.0024500000000000004,1126,1994
+214,United States,SGI,2450.0,0.0024500000000000004,1131,1994
+215,Germany,SGI/Siemens-Nixdorf,2450.0,0.0024500000000000004,1141,1994
+216,Canada,SGI,2450.0,0.0024500000000000004,1142,1994
+217,France,Thinking Machines Corporation,2400.0,0.0024,184,1992
+218,United States,Thinking Machines Corporation,2400.0,0.0024,778,1987
+219,United Kingdom,Thinking Machines Corporation,2400.0,0.0024,223,1993
+220,United States,IBM,2400.0,0.0024,732,1993
+221,United States,Intel,2250.0,0.00225,875,1994
+222,Germany,Intel,2250.0,0.00225,851,1992
+223,France,Intel,2215.0,0.002215,1038,1994
+224,United States,Cray Inc.,2171.0,0.0021709999999999998,638,1990
+225,Saudia Arabia,Cray Inc.,2144.0,0.002144,995,1991
+226,United Kingdom,Cray Inc.,2144.0,0.002144,1050,1994
+227,United Kingdom,Cray Inc.,2144.0,0.002144,533,1990
+228,France,Cray Inc.,2144.0,0.002144,1022,1991
+229,United States,Cray Inc.,2144.0,0.002144,571,1993
+230,United States,Cray Inc.,2144.0,0.002144,570,1993
+231,United States,Cray Inc.,2144.0,0.002144,578,1990
+232,United States,Cray Inc.,2144.0,0.002144,581,1990
+233,United States,Cray Inc.,2144.0,0.002144,1020,1993
+234,Germany,Cray Inc.,2144.0,0.002144,1031,1993
+235,Hong Kong,Cray Inc.,2144.0,0.002144,1282,1994
+236,United States,Cray Inc.,2144.0,0.002144,635,1991
+237,United States,Cray Inc.,2144.0,0.002144,636,1992
+238,Germany,Cray Inc.,2144.0,0.002144,101,1992
+239,United States,Cray Inc.,2144.0,0.002144,655,1992
+240,United States,Cray Inc.,2144.0,0.002144,653,1992
+241,United States,Cray Inc.,2144.0,0.002144,689,1993
+242,United States,Cray Inc.,2144.0,0.002144,698,1992
+243,United States,Cray Inc.,2144.0,0.002144,700,1991
+244,United States,Cray Inc.,2144.0,0.002144,720,1990
+245,United States,Cray Inc.,2144.0,0.002144,713,1993
+246,United States,Cray Inc.,2144.0,0.002144,714,1990
+247,United States,Cray Inc.,2144.0,0.002144,717,1991
+248,United States,Cray Inc.,2144.0,0.002144,583,1993
+249,United States,Cray Inc.,2144.0,0.002144,723,1993
+250,United States,Cray Inc.,2144.0,0.002144,730,1989
+251,United Kingdom,Cray Inc.,2144.0,0.002144,218,1992
+252,United States,Cray Inc.,2144.0,0.002144,748,1993
+253,Japan,Cray Inc.,2144.0,0.002144,452,1992
+254,United States,Cray Inc.,2144.0,0.002144,802,1990
+255,Spain,Fujitsu,2110.0,0.00211,154,1992
+256,Japan,Fujitsu,2110.0,0.00211,1221,1994
+257,United States,Fujitsu,2110.0,0.00211,601,1993
+258,Canada,Fujitsu,2110.0,0.00211,60,1992
+259,France,Fujitsu,2110.0,0.00211,182,1992
+260,United Kingdom,Fujitsu,2110.0,0.00211,229,1993
+261,United States,Intel,2060.0,0.00206,538,1992
+262,United States,Intel,2060.0,0.00206,878,1994
+263,United States,Intel,2060.0,0.00206,855,1993
+264,United States,Intel,2060.0,0.00206,627,1993
+265,Germany,Intel,2060.0,0.00206,864,1994
+266,Japan,Intel,2060.0,0.00206,853,1994
+267,United States,Intel,2060.0,0.00206,1220,1992
+268,United States,Intel,2060.0,0.00206,729,1993
+269,United States,Intel,2060.0,0.00206,739,1993
+270,Japan,Intel,2060.0,0.00206,423,1993
+271,France,Kendall Square Research,2029.9999999999998,0.0020299999999999997,1036,1994
+272,Germany,SGI,2000.0,0.002,1144,1994
+273,Germany,SGI,2000.0,0.002,1145,1994
+274,Canada,SGI,2000.0,0.002,1146,1994
+275,Finland,SGI,2000.0,0.002,1290,1994
+276,Hong Kong,SGI,2000.0,0.002,1280,1994
+277,United States,SGI,2000.0,0.002,1148,1994
+278,United States,SGI,2000.0,0.002,1149,1994
+279,United States,SGI,2000.0,0.002,1150,1994
+280,United States,SGI,2000.0,0.002,1125,1994
+281,Germany,SGI,2000.0,0.002,1152,1994
+282,Sweden,SGI,2000.0,0.002,1143,1994
+283,United States,SGI,2000.0,0.002,1147,1994
+284,Netherlands,IBM,1950.0,0.00195,1316,1994
+285,Japan,Thinking Machines Corporation,1900.0,0.0019,834,1994
+286,Australia,Thinking Machines Corporation,1900.0,0.0019,41,1993
+287,United States,Thinking Machines Corporation,1900.0,0.0019,540,1993
+288,Japan,Thinking Machines Corporation,1900.0,0.0019,256,1993
+289,United States,Thinking Machines Corporation,1900.0,0.0019,556,1993
+290,France,Thinking Machines Corporation,1900.0,0.0019,172,1993
+291,United States,Thinking Machines Corporation,1900.0,0.0019,587,1993
+292,United States,Thinking Machines Corporation,1900.0,0.0019,833,1993
+293,United States,Thinking Machines Corporation,1900.0,0.0019,630,1993
+294,United States,Thinking Machines Corporation,1900.0,0.0019,835,1994
+295,United States,Thinking Machines Corporation,1900.0,0.0019,659,1993
+296,United States,Thinking Machines Corporation,1900.0,0.0019,836,1994
+297,United States,Thinking Machines Corporation,1900.0,0.0019,718,1993
+298,United States,Thinking Machines Corporation,1900.0,0.0019,715,1993
+299,United States,Thinking Machines Corporation,1900.0,0.0019,831,1994
+300,France,Thinking Machines Corporation,1900.0,0.0019,194,1993
+301,United States,Thinking Machines Corporation,1900.0,0.0019,756,1993
+302,United States,Thinking Machines Corporation,1900.0,0.0019,760,1993
+303,Japan,Thinking Machines Corporation,1900.0,0.0019,461,1993
+304,Mexico,Thinking Machines Corporation,1900.0,0.0019,1134,1994
+305,Germany,Thinking Machines Corporation,1900.0,0.0019,142,1992
+306,Australia,Thinking Machines Corporation,1900.0,0.0019,48,1993
+307,United States,Thinking Machines Corporation,1900.0,0.0019,794,1993
+308,Australia,Thinking Machines Corporation,1900.0,0.0019,50,1993
+309,United States,Thinking Machines Corporation,1900.0,0.0019,800,1993
+310,United States,nCube,1900.0,0.0019,988,1994
+311,Norway,Intel,1900.0,0.0019,1219,1992
+312,Austria,Intel,1900.0,0.0019,1215,1993
+313,United States,nCube,1900.0,0.0019,746,1993
+314,United States,Kendall Square Research,1838.0,0.001838,549,1992
+315,Japan,Kendall Square Research,1838.0,0.001838,257,1993
+316,United Kingdom,Kendall Square Research,1838.0,0.001838,213,1992
+317,United States,Kendall Square Research,1838.0,0.001838,727,1991
+318,United States,Kendall Square Research,1838.0,0.001838,791,1992
+319,United Kingdom,Kendall Square Research,1838.0,0.001838,812,1994
+320,Japan,Hitachi,1817.0,0.001817,289,1988
+321,Japan,Hitachi,1817.0,0.001817,292,1989
+322,Japan,Hitachi,1817.0,0.001817,290,1988
+323,Japan,Hitachi,1817.0,0.001817,293,1990
+324,Japan,Hitachi,1817.0,0.001817,291,1989
+325,Japan,Hitachi,1817.0,0.001817,296,1989
+326,Japan,Hitachi,1817.0,0.001817,299,1989
+327,Japan,Hitachi,1817.0,0.001817,397,1993
+328,United States,IBM,1800.0,0.0018,953,1994
+329,United States,Intel,1750.0,0.00175,550,1993
+330,United States,Intel,1750.0,0.00175,880,1994
+331,Japan,Intel,1750.0,0.00175,283,1993
+332,United Kingdom,Intel,1750.0,0.00175,867,1994
+333,United States,Intel,1750.0,0.00175,881,1994
+334,United States,Intel,1750.0,0.00175,741,1993
+335,United States,Intel,1750.0,0.00175,859,1993
+336,United States,Intel,1750.0,0.00175,749,1993
+337,United States,Intel,1750.0,0.00175,883,1994
+338,United States,Intel,1750.0,0.00175,793,1993
+339,Australia,Intel,1750.0,0.00175,1214,1993
+340,United States,Intel,1750.0,0.00175,882,1994
+341,United States,Intel,1750.0,0.00175,799,1992
+342,Slovenia,Hewlett-Packard,1746.0,0.001746,983,1994
+343,Germany,Hewlett-Packard,1746.0,0.001746,981,1994
+344,France,Hewlett-Packard,1746.0,0.001746,1263,1994
+345,Germany,Hewlett-Packard,1746.0,0.001746,1067,1994
+346,United States,Hewlett-Packard,1746.0,0.001746,1268,1994
+347,United States,Hewlett-Packard,1746.0,0.001746,985,1994
+348,Japan,Hewlett-Packard,1746.0,0.001746,1269,1994
+349,United States,Cray Inc.,1733.0,0.0017330000000000002,574,1993
+350,United States,Cray Inc.,1733.0,0.0017330000000000002,1023,1994
+351,United States,Cray Inc.,1703.0,0.001703,1024,1994
+352,Germany,Cray Inc.,1703.0,0.001703,1017,1994
+353,Italy,Cray Inc.,1703.0,0.001703,1002,1993
+354,United States,Cray Inc.,1703.0,0.001703,1235,1994
+355,Japan,Cray Inc.,1703.0,0.001703,367,1994
+356,Denmark,Cray Inc.,1703.0,0.001703,1027,1993
+357,Japan,Fujitsu,1688.0,0.001688,263,1991
+358,Japan,Hitachi,1672.0,0.0016719999999999999,1206,1994
+359,Japan,Hitachi,1672.0,0.0016719999999999999,288,1993
+360,Japan,Hitachi,1672.0,0.0016719999999999999,287,1993
+361,United States,Cray Inc.,1651.0,0.0016510000000000001,702,1993
+362,Japan,Cray Inc.,1651.0,0.0016510000000000001,412,1990
+363,Taiwan,Cray Inc.,1651.0,0.0016510000000000001,516,1992
+364,Japan,Cray Inc.,1651.0,0.0016510000000000001,474,1991
+365,Greece,Intel,1625.0,0.001625,862,1994
+366,United States,Cray Computer,1622.0,0.0016220000000000002,1284,1994
+367,Germany,MasPar,1600.0,0.0016,1308,1994
+368,Japan,MasPar,1600.0,0.0016,1276,1994
+369,United States,MasPar,1600.0,0.0016,646,1993
+370,United States,MasPar,1600.0,0.0016,716,1993
+371,Japan,MasPar,1600.0,0.0016,1275,1994
+372,Ireland,MasPar,1600.0,0.0016,1306,1994
+373,Norway,Hewlett-Packard,1600.0,0.0016,502,1993
+374,Australia,MasPar,1600.0,0.0016,1302,1993
+375,Germany,IBM,1600.0,0.0016,1317,1994
+376,Turkey,IBM,1600.0,0.0016,1297,1994
+377,United States,IBM,1600.0,0.0016,1319,1993
+378,United Kingdom,IBM,1600.0,0.0016,1293,1994
+379,Germany,IBM,1600.0,0.0016,1288,1994
+380,France,Intel,1500.0,0.0015,852,1993
+381,Japan,NEC,1500.0,0.0015,1243,1994
+382,Japan,Parsytec,1490.0,0.00149,1314,1994
+383,Sweden,Parsytec,1490.0,0.00149,1296,1994
+384,Germany,Parsytec,1490.0,0.00149,1105,1994
+385,Germany,Parsytec,1490.0,0.00149,1289,1994
+386,Italy,Parsytec,1490.0,0.00149,1315,1994
+387,Norway,Parsytec,1490.0,0.00149,1295,1994
+388,Saudia Arabia,SGI,1467.0,0.001467,1156,1994
+389,Germany,SGI,1467.0,0.001467,1155,1994
+390,Netherlands,SGI,1467.0,0.001467,1159,1994
+391,Denmark,SGI,1467.0,0.001467,1164,1994
+392,Brazil,SGI,1467.0,0.001467,1153,1994
+393,United States,SGI,1467.0,0.001467,1165,1994
+394,United Kingdom,SGI,1467.0,0.001467,1157,1994
+395,United Kingdom,SGI,1467.0,0.001467,1167,1994
+396,France,SGI,1467.0,0.001467,1168,1994
+397,United Kingdom,SGI,1467.0,0.001467,1166,1994
+398,Switzerland,SGI,1467.0,0.001467,1115,1994
+399,United States,SGI,1467.0,0.001467,1162,1994
+400,Sweden,SGI,1467.0,0.001467,1151,1994
+401,United States,SGI,1467.0,0.001467,1163,1994
+402,United States,SGI,1467.0,0.001467,1160,1994
+403,United States,SGI,1467.0,0.001467,1161,1994
+404,Netherlands,SGI,1467.0,0.001467,1158,1994
+405,Sweden,SGI,1467.0,0.001467,1154,1994
+406,Switzerland,IBM,1457.0,0.0014570000000000002,64,1993
+407,United States,IBM,1457.0,0.0014570000000000002,557,1993
+408,Taiwan,IBM,1457.0,0.0014570000000000002,1278,1992
+409,United States,IBM,1457.0,0.0014570000000000002,766,1993
+410,United States,Cray Inc.,1406.0,0.001406,696,1989
+411,United States,Cray Inc.,1406.0,0.001406,710,1988
+412,United States,Cray Inc.,1406.0,0.001406,637,1988
+413,Saudia Arabia,Cray Inc.,1406.0,0.001406,994,1992
+414,United States,Cray Inc.,1406.0,0.001406,561,1993
+415,United Kingdom,Cray Inc.,1406.0,0.001406,207,1990
+416,France,Cray Inc.,1406.0,0.001406,176,1989
+417,United States,Cray Inc.,1406.0,0.001406,673,1988
+418,Japan,Cray Inc.,1406.0,0.001406,381,1987
+419,United States,Cray Inc.,1406.0,0.001406,771,1990
+420,United States,Cray Inc.,1405.0,0.001405,1003,1993
+421,United States,Cray Inc.,1405.0,0.001405,1238,1994
+422,United States,Cray Inc.,1405.0,0.001405,1004,1994
+423,United States,Intel,1400.0,0.0014,548,1990
+424,United States,Intel,1400.0,0.0014,668,1991
+425,United States,Intel,1400.0,0.0014,743,1990
+426,United States,Intel,1400.0,0.0014,745,1991
+427,United States,Intel,1400.0,0.0014,758,1990
+428,United States,Intel,1400.0,0.0014,767,1990
+429,United States,Intel,1400.0,0.0014,808,1992
+430,United States,Kendall Square Research,1350.0,0.00135,724,1992
+431,United States,Kendall Square Research,1350.0,0.00135,1299,1992
+432,Spain,Hewlett-Packard,1335.0,0.001335,1261,1994
+433,Taiwan,Hewlett-Packard,1335.0,0.001335,1259,1994
+434,United States,Hewlett-Packard,1335.0,0.001335,1262,1994
+435,Japan,Thinking Machines Corporation,1300.0,0.0013,244,1990
+436,Germany,Thinking Machines Corporation,1300.0,0.0013,85,1990
+437,United States,Thinking Machines Corporation,1300.0,0.0013,841,1994
+438,Australia,Thinking Machines Corporation,1300.0,0.0013,820,1994
+439,United Kingdom,Meiko,1300.0,0.0013,226,1990
+440,Singapore,NEC,1300.0,0.0013,972,1994
+441,Japan,NEC,1300.0,0.0013,426,1991
+442,Japan,NEC,1300.0,0.0013,453,1992
+443,United Kingdom,Parsytec,1290.0,0.0012900000000000001,1294,1994
+444,Germany,Parsytec,1290.0,0.0012900000000000001,980,1994
+445,Japan,SGI,1284.0,0.001284,920,1993
+446,Germany,SGI,1284.0,0.001284,918,1994
+447,Germany,SGI,1284.0,0.001284,919,1994
+448,United States,SGI,1284.0,0.001284,921,1993
+449,United States,SGI,1284.0,0.001284,894,1993
+450,United States,SGI,1284.0,0.001284,1123,1993
+451,United States,Cray Inc.,1268.0,0.001268,1323,1994
+452,United States,Cray Inc.,1268.0,0.001268,1053,1994
+453,Germany,Cray Inc.,1268.0,0.001268,1052,1994
+454,United States,SGI,1254.0,0.001254,922,1994
+455,United States,SGI,1254.0,0.001254,896,1993
+456,Sweden,Thinking Machines Corporation,1200.0,0.0012,845,1991
+457,United States,Thinking Machines Corporation,1200.0,0.0012,843,1994
+458,Denmark,Thinking Machines Corporation,1200.0,0.0012,149,1992
+459,Netherlands,IBM,1200.0,0.0012,1047,1993
+460,United States,IBM,1200.0,0.0012,958,1994
+461,Taiwan,IBM,1200.0,0.0012,957,1994
+462,Netherlands,IBM,1200.0,0.0012,956,1994
+463,United States,IBM,1200.0,0.0012,954,1994
+464,Germany,Cray Inc.,1159.0,0.001159,74,1992
+465,United States,Cray Inc.,1159.0,0.001159,539,1993
+466,Australia,Cray Inc.,1159.0,0.001159,1012,1994
+467,France,Cray Inc.,1159.0,0.001159,174,1992
+468,United Kingdom,Cray Inc.,1159.0,0.001159,201,1993
+469,United Kingdom,Cray Inc.,1159.0,0.001159,208,1990
+470,Germany,Cray Inc.,1159.0,0.001159,82,1990
+471,United States,Cray Inc.,1159.0,0.001159,1008,1993
+472,Switzerland,Cray Inc.,1159.0,0.001159,67,1992
+473,Italy,Cray Inc.,1159.0,0.001159,1013,1993
+474,United States,Cray Inc.,1159.0,0.001159,598,1990
+475,United States,Cray Inc.,1159.0,0.001159,1019,1993
+476,"Korea, South",Cray Inc.,1159.0,0.001159,483,1993
+477,United States,Cray Inc.,1159.0,0.001159,644,1992
+478,United States,Cray Inc.,1159.0,0.001159,645,1993
+479,Japan,Cray Inc.,1159.0,0.001159,356,1992
+480,Germany,Cray Inc.,1159.0,0.001159,103,1991
+481,United States,Cray Inc.,1159.0,0.001159,670,1993
+482,Japan,Cray Inc.,1159.0,0.001159,368,1992
+483,United States,Cray Inc.,1159.0,0.001159,711,1990
+484,Sweden,Cray Inc.,1159.0,0.001159,1011,1993
+485,United States,Cray Inc.,1159.0,0.001159,725,1991
+486,Norway,Cray Inc.,1159.0,0.001159,504,1992
+487,France,Cray Inc.,1159.0,0.001159,192,1991
+488,France,Cray Inc.,1159.0,0.001159,168,1992
+489,France,Cray Inc.,1159.0,0.001159,1010,1994
+490,"Korea, South",Cray Inc.,1159.0,0.001159,486,1991
+491,Japan,Cray Inc.,1159.0,0.001159,465,1990
+492,Mexico,Cray Inc.,1159.0,0.001159,1007,1994
+493,Germany,Cray Inc.,1159.0,0.001159,122,1993
+494,Germany,Cray Inc.,1159.0,0.001159,143,1993
+495,Germany,Cray Inc.,1159.0,0.001159,1287,1994
+496,United States,SGI,1153.0,0.001153,897,1994
+497,United States,SGI,1153.0,0.001153,898,1993
+498,Switzerland,Cray Inc.,1114.0,0.0011140000000000002,1000,1993
+499,Germany,Cray Inc.,1114.0,0.0011140000000000002,98,1993
+500,United States,Cray Inc.,1114.0,0.0011140000000000002,786,1992
