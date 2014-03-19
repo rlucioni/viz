@@ -23,7 +23,11 @@ path {
     fill: gray;
     opacity: 0.7;
 }
-.line {
-    stroke-width: 1.5px;
+.area {
+    stroke-width: 0;
     opacity: 0.4;
 }
+/*.line {
+    stroke-width: 1px;
+    opacity: 0.4;
+}*/
