@@ -23,6 +23,8 @@ boundingBox =
 # For adding space between labels and axes
 LABEL_PADDING = 7
 
+# IGNORE = ["dates", "PWL", "MEA", "MHV"]
+IGNORE = ["dates"]
 EXTENSION = "penis"
 BREWER_BLUE = "#1f78b4"
 
@@ -91,12 +93,21 @@ drawLineGraph = (dataset, dates) ->
     frame.append("g").attr("class", "y axis")
         .call(yAxis)
 
+    areas = frame.selectAll(".area")
+        .data(layers)
+        .enter()
+        .append("path")
+        .attr("class", "area")
+        .attr("d", (d) -> area(d.values))
+        .style("fill", (d) -> stringToHex(d.key + EXTENSION))
+
     frame.append("text")
         .attr("class", "x label")
         .attr("text-anchor", "end")
-        .attr("x", boundingBox.width)
+        .attr("x", boundingBox.width - LABEL_PADDING)
         .attr("y", boundingBox.height - LABEL_PADDING)
         .text("Date")
+        .style("fill", "white")
 
     frame.append("text")
         .attr("class", "y label")
@@ -105,16 +116,11 @@ drawLineGraph = (dataset, dates) ->
         .attr("dy", ".75em")
         .attr("transform", "rotate(-90)")
         .text("Storage (m³)")
+        .style("fill", "gray")
 
-    frame.selectAll(".area")
-        .data(layers)
-        .enter()
-        .append("path")
-        .attr("class", "area")
-        .attr("d", (d) -> 
-       
-            area(d.values))
-        .style("fill", (d) -> stringToHex(d.key + EXTENSION))
+    areas.on("mouseover", (d) ->
+        console.log d.key
+    )
 
 d3.json("monthly-reservoir-storage.json", (data) ->
     dates = []
@@ -122,10 +128,12 @@ d3.json("monthly-reservoir-storage.json", (data) ->
         dates.push(parseDate(date))
 
     dataset = []
-    # There are 191 stations
+    count = 0
     for station, values of data
-        if station != "dates"
-       
+        # if count > 5
+        #     break
+        # if station != "dates"
+        if station not in IGNORE
             records = {"key": station, "values": []}
             for value in values
                 storage = value.storage
@@ -138,6 +146,7 @@ d3.json("monthly-reservoir-storage.json", (data) ->
                 records.values.push({"date": date, "storage": storage})
 
             dataset.push(records)
+            count += 1
 
     times = []
     for date in dates
@@ -146,7 +155,6 @@ d3.json("monthly-reservoir-storage.json", (data) ->
     # Use interpolation to fill in missing values for each station
     for record in dataset
         station = record.key
-   
         # Compile lists of dates and storages from this station
         localTimes = []
         localStorages = []
@@ -163,14 +171,19 @@ d3.json("monthly-reservoir-storage.json", (data) ->
         relevantTimes = times[times.indexOf(localTimes[0])..times.indexOf(localTimes[localTimes.length - 1])]
         for time in relevantTimes
             storage = Math.round(interpolator(time))
-
             interpolatedData.push({"date": new Date(time), "storage": storage})
 
         record.values = interpolatedData
 
+    truncatedDates = []
+    for date in dates
+        # California Department of Water Resources created July 1956
+        if date.getTime() >= parseDate("07/1956").getTime()
+            truncatedDates.push(date)
+    dates = truncatedDates
+
     filledDataset = []
     for record in dataset
-   
         filledRecord = {"key": record.key, "values": []}
         for date in dates
             found = false
