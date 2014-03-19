@@ -121,7 +121,7 @@ drawLineGraph = (dataset, dates) ->
         .attr("text-anchor", "end")
         .attr("x", boundingBox.width - LABEL_PADDING)
         .attr("y", boundingBox.height - LABEL_PADDING)
-        .text("Date")
+        # .text("Date")
 
     frame.append("text")
         .attr("class", "y label")

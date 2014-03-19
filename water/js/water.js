@@ -110,7 +110,7 @@ drawLineGraph = function(dataset, dates) {
   }).style("fill", function(d) {
     return stringToHex(d.key + EXTENSION);
   });
-  frame.append("text").attr("class", "x label").attr("text-anchor", "end").attr("x", boundingBox.width - LABEL_PADDING).attr("y", boundingBox.height - LABEL_PADDING).text("Date");
+  frame.append("text").attr("class", "x label").attr("text-anchor", "end").attr("x", boundingBox.width - LABEL_PADDING).attr("y", boundingBox.height - LABEL_PADDING);
   frame.append("text").attr("class", "y label").attr("text-anchor", "end").attr("y", LABEL_PADDING).attr("dy", ".75em").attr("transform", "rotate(-90)").text("Storage (m³)");
   return areas.on("mouseover", function(d) {
     return console.log(d.key);
