@@ -24,13 +24,13 @@ FORCED_COLORS =
     "MEA": "#377eb8",
     "ORO": "#ffed6f",
     "SNL": "#e41a1c",
+    "LUS": "#e41a1c",
     "NML": "#f16913",
     "BER": "#ffd92f",
-    "CLE": "#54278f"
+    "CLE": "#54278f",
+    "SHA": "#fcc5c0"
 
 IGNORE = ["dates"]
-# To ignore out-of-state reservoirs, use the below instead
-# IGNORE = ["dates", "PWL", "MEA", "MHV"]
 # For adding space between labels and axes
 LABEL_PADDING = 7
 # String tacked onto reservoir IDs to increase color variety
