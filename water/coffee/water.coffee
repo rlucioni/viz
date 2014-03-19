@@ -20,13 +20,23 @@ boundingBox =
     width: canvasWidth - 100,
     height: canvasHeight - 50
 
+FORCED_COLORS =
+    "MEA": "#377eb8",
+    "ORO": "#ffed6f",
+    "SNL": "#e41a1c",
+    "NML": "#f16913",
+    "BER": "#ffd92f",
+    "CLE": "#54278f"
+
+IGNORE = ["dates"]
+# To ignore out-of-state reservoirs, use the below instead
+# IGNORE = ["dates", "PWL", "MEA", "MHV"]
 # For adding space between labels and axes
 LABEL_PADDING = 7
-
-# IGNORE = ["dates", "PWL", "MEA", "MHV"]
-IGNORE = ["dates"]
-EXTENSION = "penis"
-BREWER_BLUE = "#1f78b4"
+# String tacked onto reservoir IDs to increase color variety
+EXTENSION = "qwert"
+# California Department of Water Resources created July 1956
+TRUNCATE_DATE = "07/1957"
 
 # Taken from http://en.wikipedia.org/wiki/Acre-foot
 CUBIC_METERS_FACTOR = 1233.4892384681
@@ -34,6 +44,10 @@ CUBIC_METERS_FACTOR = 1233.4892384681
 parseDate = d3.time.format("%m/%Y").parse
 
 stringToHex = (str) ->
+    for reservoir of FORCED_COLORS
+        if str[..2] == reservoir
+            return FORCED_COLORS[reservoir]
+
     # convert to hexatridecimal
     hexatridecimal = parseInt(str, 36)
     # exponentiate and trim off beginning and end
@@ -57,14 +71,15 @@ yAxis = d3.svg.axis().scale(yScale).orient("left")
 
 stack = d3.layout.stack()
     .offset("zero")
+    # To create a streamgraph, use wiggle offset instead of zero
     # .offset("wiggle")
+    .order("inside-out")
     .values((d) -> d.values)
     .x((d) -> d.date)
     .y((d) -> d.storage)
 
 area = d3.svg.area()
     .interpolate("linear")
-    # .interpolate("cardinal")
     .x((d) -> xScale(d.date))
     .y0((d) -> yScale(d.y0))
     .y1((d) -> yScale(d.y0 + d.y))
@@ -107,7 +122,6 @@ drawLineGraph = (dataset, dates) ->
         .attr("x", boundingBox.width - LABEL_PADDING)
         .attr("y", boundingBox.height - LABEL_PADDING)
         .text("Date")
-        .style("fill", "white")
 
     frame.append("text")
         .attr("class", "y label")
@@ -116,7 +130,6 @@ drawLineGraph = (dataset, dates) ->
         .attr("dy", ".75em")
         .attr("transform", "rotate(-90)")
         .text("Storage (m³)")
-        .style("fill", "gray")
 
     areas.on("mouseover", (d) ->
         console.log d.key
@@ -128,13 +141,9 @@ d3.json("monthly-reservoir-storage.json", (data) ->
         dates.push(parseDate(date))
 
     dataset = []
-    count = 0
-    for station, values of data
-        # if count > 5
-        #     break
-        # if station != "dates"
-        if station not in IGNORE
-            records = {"key": station, "values": []}
+    for reservoir, values of data
+        if reservoir not in IGNORE
+            records = {"key": reservoir, "values": []}
             for value in values
                 storage = value.storage
                 if storage == "--"
@@ -146,16 +155,15 @@ d3.json("monthly-reservoir-storage.json", (data) ->
                 records.values.push({"date": date, "storage": storage})
 
             dataset.push(records)
-            count += 1
 
     times = []
     for date in dates
         times.push(date.getTime())
 
-    # Use interpolation to fill in missing values for each station
+    # Use interpolation to fill in missing values for each reservoir
     for record in dataset
-        station = record.key
-        # Compile lists of dates and storages from this station
+        reservoir = record.key
+        # Compile lists of dates and storages from this reservoir
         localTimes = []
         localStorages = []
         for point in record.values
@@ -167,7 +175,7 @@ d3.json("monthly-reservoir-storage.json", (data) ->
             .range(localStorages)
 
         interpolatedData = []
-        # Only consider years between the years for which this station has data
+        # Only consider years between the years for which this reservoir has data
         relevantTimes = times[times.indexOf(localTimes[0])..times.indexOf(localTimes[localTimes.length - 1])]
         for time in relevantTimes
             storage = Math.round(interpolator(time))
@@ -177,8 +185,7 @@ d3.json("monthly-reservoir-storage.json", (data) ->
 
     truncatedDates = []
     for date in dates
-        # California Department of Water Resources created July 1956
-        if date.getTime() >= parseDate("07/1956").getTime()
+        if date.getTime() >= parseDate(TRUNCATE_DATE).getTime()
             truncatedDates.push(date)
     dates = truncatedDates
 

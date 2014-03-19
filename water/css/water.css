@@ -20,14 +20,15 @@ path {
     stroke-opacity: 0.5;
 }
 .label {
-    /*fill: gray;*/
-    opacity: 0.9;
+    fill: gray;
+    opacity: 1.0;
 }
 .area {
     stroke-width: 0;
     opacity: 0.4;
 }
 #attribution {
+    font-size: 0.7em;
     padding-left: 25em;
     padding-top: none;
 }
