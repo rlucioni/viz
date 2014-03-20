@@ -16,16 +16,28 @@ path {
     fill: none;
 }
 .axis path, .axis line {
-    stroke: gray;
-    stroke-opacity: 0.5;
+    stroke: black;
 }
-.label {
-    fill: gray;
-    opacity: 1.0;
+.pop.axis path, .pop.axis line {
+    stroke: steelblue;
+    opacity: 0.4;
+}
+.pop.axis text {
+    fill: steelblue;
+    opacity: 0.4;
+}
+.pop.label {
+    fill: steelblue;
+    opacity: 0.4;
 }
 .area {
     stroke-width: 0;
     opacity: 0.4;
+}
+.pop.line {
+    stroke-width: 2px;
+    stroke: steelblue;
+    opacity: 0.3;
 }
 #attribution {
     font-size: 0.7em;

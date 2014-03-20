@@ -5,7 +5,7 @@ margin =
     left:   20, 
     right:  20
 
-canvasWidth = 1100 - margin.left - margin.right
+canvasWidth = 1225 - margin.left - margin.right
 canvasHeight = 600 - margin.top - margin.bottom
 
 svg = d3.select("#vis").append("svg")
@@ -17,7 +17,7 @@ svg = d3.select("#vis").append("svg")
 boundingBox =
     x: 120,
     y: 0,
-    width: canvasWidth - 100,
+    width: canvasWidth - 225,
     height: canvasHeight - 50
 
 FORCED_COLORS =
@@ -32,7 +32,9 @@ FORCED_COLORS =
 
 IGNORE = ["dates"]
 # For adding space between labels and axes
-LABEL_PADDING = 7
+labelPadding = 
+    "small": 7,
+    "large": 19
 # String tacked onto reservoir IDs to increase color variety
 EXTENSION = "qwert"
 # California Department of Water Resources created July 1956
@@ -65,9 +67,11 @@ stringToHex = (str) ->
 
 xScale = d3.time.scale().range([0, boundingBox.width])
 yScale = d3.scale.linear().range([boundingBox.height, 0])
+popScale = d3.scale.linear().range([boundingBox.height, 0])
 
 xAxis = d3.svg.axis().scale(xScale).orient("bottom")
 yAxis = d3.svg.axis().scale(yScale).orient("left")
+popAxis = d3.svg.axis().scale(popScale).orient("right")
 
 stack = d3.layout.stack()
     .offset("zero")
@@ -84,7 +88,12 @@ area = d3.svg.area()
     .y0((d) -> yScale(d.y0))
     .y1((d) -> yScale(d.y0 + d.y))
 
-drawLineGraph = (dataset, dates) ->
+line = d3.svg.line()
+    .interpolate("linear")
+    .x((d) -> xScale(d.date))
+    .y((d) -> popScale(d.population))
+
+drawLineGraph = (dataset, dates, popData) ->
     layers = stack(dataset)
 
     xScale.domain(d3.extent(dates))
@@ -97,6 +106,7 @@ drawLineGraph = (dataset, dates) ->
                 storages.push(storage)
 
     yScale.domain([0, d3.max(storages)])
+    popScale.domain([0, d3.max(popData, (d) -> d.population)])
 
     frame = svg.append("g")
         .attr("transform", "translate(#{boundingBox.x}, #{boundingBox.y})")
@@ -108,6 +118,10 @@ drawLineGraph = (dataset, dates) ->
     frame.append("g").attr("class", "y axis")
         .call(yAxis)
 
+    frame.append("g").attr("class", "pop axis")
+        .attr("transform", "translate(#{boundingBox.width}, 0)")
+        .call(popAxis)
+
     areas = frame.selectAll(".area")
         .data(layers)
         .enter()
@@ -116,20 +130,26 @@ drawLineGraph = (dataset, dates) ->
         .attr("d", (d) -> area(d.values))
         .style("fill", (d) -> stringToHex(d.key + EXTENSION))
 
-    frame.append("text")
-        .attr("class", "x label")
-        .attr("text-anchor", "end")
-        .attr("x", boundingBox.width - LABEL_PADDING)
-        .attr("y", boundingBox.height - LABEL_PADDING)
-        # .text("Date")
+    line = frame.append("path")
+        .datum(popData)
+        .attr("class", "pop line")
+        .attr("d", line)
 
     frame.append("text")
         .attr("class", "y label")
         .attr("text-anchor", "end")
-        .attr("y", LABEL_PADDING)
+        .attr("y", labelPadding.small)
         .attr("dy", ".75em")
         .attr("transform", "rotate(-90)")
         .text("Storage (m³)")
+
+    frame.append("text")
+        .attr("class", "pop label")
+        .attr("text-anchor", "end")
+        .attr("y", boundingBox.width - labelPadding.large)
+        .attr("dy", ".75em")
+        .attr("transform", "rotate(-90)")
+        .text("Population")
 
     areas.on("mouseover", (d) ->
         console.log d.key
@@ -206,5 +226,11 @@ d3.json("monthly-reservoir-storage.json", (data) ->
             
         filledDataset.push(filledRecord)
 
-    drawLineGraph(filledDataset, dates)
+    
+    d3.csv("ca-population.csv", (popDataRaw) ->
+        popData = []
+        for row in popDataRaw
+            popData.push({"date": parseDate(row.date), "population": +row.population})
+        drawLineGraph(filledDataset, dates, popData)
+    )
 )
