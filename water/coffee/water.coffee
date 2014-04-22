@@ -22,14 +22,18 @@ boundingBox =
 
 FORCED_COLORS =
     "MEA": "#377eb8",
-    "ORO": "#ffed6f",
+    "ORO": "#5ab4ac",
     "SNL": "#e41a1c",
     "LUS": "#e41a1c",
     "NML": "#f16913",
     "BER": "#ffd92f",
     "CLE": "#54278f",
-    "SHA": "#fcc5c0"
+    "SHA": "#fcc5c0",
+    "PWL": "#448014",
+    "DNP": "#614126"
 
+BILLION = 1000000000
+MILLION = 1000000
 IGNORE = ["dates"]
 # For adding space between labels and axes
 labelPadding = 
@@ -70,8 +74,8 @@ yScale = d3.scale.linear().range([boundingBox.height, 0])
 popScale = d3.scale.linear().range([boundingBox.height, 0])
 
 xAxis = d3.svg.axis().scale(xScale).orient("bottom")
-yAxis = d3.svg.axis().scale(yScale).orient("left")
-popAxis = d3.svg.axis().scale(popScale).orient("right")
+yAxis = d3.svg.axis().scale(yScale).orient("left").tickFormat((d) -> d/BILLION)
+popAxis = d3.svg.axis().scale(popScale).orient("right").tickFormat((d) -> d/MILLION)
 
 stack = d3.layout.stack()
     .offset("zero")
@@ -141,7 +145,7 @@ drawLineGraph = (dataset, dates, popData) ->
         .attr("y", labelPadding.small)
         .attr("dy", ".75em")
         .attr("transform", "rotate(-90)")
-        .text("Storage (m³)")
+        .text("Cubic meters, billions")
 
     frame.append("text")
         .attr("class", "pop label")
@@ -149,7 +153,7 @@ drawLineGraph = (dataset, dates, popData) ->
         .attr("y", boundingBox.width - labelPadding.large)
         .attr("dy", ".75em")
         .attr("transform", "rotate(-90)")
-        .text("Population")
+        .text("Population, millions")
 
     areas.on("mouseover", (d) ->
         console.log d.key
