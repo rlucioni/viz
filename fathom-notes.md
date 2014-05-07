@@ -1,12 +1,12 @@
-INFORMAL PRESENTATION OF PAST WORK AND PROJECTS
+## Informal Presentation of Past Work and Projects ##
 
-SETUP:
+### Setup ###
 
-    0) Turn off notifications (do not disturb). Close Gmail!
-    1) Set up presentation
-    2) Start server for US housing trends piece, go to localhost:8000/code/recovery.html. WILL NOT WORK WITHOUT INTERNET ACCESS.
+    1. Turn off notifications (do not disturb). Close Gmail!
+    2. Set up presentation
+    3. Start server for US housing trends piece, go to localhost:8000/code/recovery.html. WILL NOT WORK WITHOUT INTERNET ACCESS.
 
-NOTES:
+### Notes ###
 
 Hi guys, thanks for having me.
     - I'm a graduating Harvard senior studying computer science and government.
@@ -98,7 +98,7 @@ I'll wrap up by saying that working with organizations like The Economist is gre
 
 That's all I've got - thanks for your time. Any questions?
 
-EXTRA CREDIT:
+### Extra Credit ###
 This is a picture I took from about 100,000 feet (30 kilometers), also known as the stratosphere.
     - I led a small team of friends which sent a hamburger into the stratosphere and filmed the entire journey, on the way up and on the way down. 
     - We used a 600 gram weather balloon, 120 cubic feet of helium, a GoPro camera, an HTC Rezound for cheap GPS, a parachute, and a styrofoam cooler for storing the electronics.
@@ -106,9 +106,7 @@ This is a picture I took from about 100,000 feet (30 kilometers), also known as 
     - (GPS cutoff at 60,000 feet)
     - This was parodied by Jay Leno on The Tonight Show, featured on the Yahoo! front page, and showed up in way more major news outlets than it should have.
 
-########################################################################################################################
-
-QUESTIONS
+### Questions ###
 
 1) Can you tell me about Jonathan Feinberg's involvement here? I know he's leading development on Processing.py, but I thought he worked at Google?
 
@@ -118,9 +116,7 @@ QUESTIONS
 
 4) What's the general process of working with a client like, and how long do client projects tend to last? How do you decide who works on what, and how many projects do you tend to have going at the same time? Do you need to travel often?
 
-########################################################################################################################
-
-MISCELLANEOUS NOTES
+### Miscellaneous Notes ###
 
 Cool Ben Fry pieces: Deprocess, All Streets, Salary vs. Performance, Fortune 500 (ability to go through 80-90k points and get a sense of what's in there)
     James Grady's Rocky piece
