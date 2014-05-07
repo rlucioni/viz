@@ -2,16 +2,16 @@
 
 ### Setup ###
 
-    1. Turn off notifications (do not disturb). Close Gmail!
-    2. Set up presentation
-    3. Start server for US housing trends piece, go to localhost:8000/code/recovery.html. WILL NOT WORK WITHOUT INTERNET ACCESS.
+1. Turn off notifications (do not disturb). Close Gmail!
+2. Set up presentation
+3. Start server for US housing trends piece, go to localhost:8000/code/recovery.html. WILL NOT WORK WITHOUT INTERNET ACCESS.
 
 ### Notes ###
 
 Hi guys, thanks for having me.
-    - I'm a graduating Harvard senior studying computer science and government.
-    - I was born in Peru to an American mom, and speak fluent Spanish. My home for the last 13 years or so has been near Seattle, on an island called Bainbridge.
-    - I like tell short stories by organizing information, and I'm interested in using data visualization to make complex information accessible and useful.
+- I'm a graduating Harvard senior studying computer science and government.
+- I was born in Peru to an American mom, and speak fluent Spanish. My home for the last 13 years or so has been near Seattle, on an island called Bainbridge.
+- I like tell short stories by organizing information, and I'm interested in using data visualization to make complex information accessible and useful.
 
 This is really a recent occupation of mine, and I want to begin today by telling you a quick story about how I got into it. 
     - It started for me in a data science course I took last year taught by Hanspeter Pfister. 
